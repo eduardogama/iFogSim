@@ -1,6 +1,6 @@
 package org.fog.placement;
 
-import fog.VideoFogBroker;
+import org.fog_impl.VideoFogBroker;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Collections;
@@ -136,7 +136,7 @@ public class Controller extends SimEntity {
 
         scheduleMobility();
 
-        processNewJobs();
+//        processNewJobs();
     }
 
     public void setMobilityMap(Map<Integer, Pair<Double, Integer>> mobilityMap) {

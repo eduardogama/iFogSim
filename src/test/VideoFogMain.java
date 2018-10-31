@@ -1,6 +1,6 @@
 package test;
 
-import fog.VideoFogBroker;
+import org.fog_impl.VideoFogBroker;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -146,9 +146,6 @@ public class VideoFogMain {
 
             CloudSim.startSimulation();
 
-            
-            
-            
             
             CloudSim.stopSimulation();
 

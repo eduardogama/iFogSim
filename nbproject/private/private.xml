@@ -31,7 +31,7 @@
             <url>src/test/VideoFogMain.java</url>
             <bookmark id="6">
                 <name/>
-                <line>138</line>
+                <line>140</line>
                 <key/>
             </bookmark>
         </file>
@@ -47,9 +47,9 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/home/futebol/simulation-tools/iFogSim/src/test/VideoFogMain.java</file>
-            <file>file:/home/futebol/simulation-tools/iFogSim/src/org/fog/placement/ModuleMapping.java</file>
+            <file>file:/home/futebol/simulation-tools/iFogSim/src/org/fog_impl/VideoStreams.java</file>
             <file>file:/home/futebol/simulation-tools/iFogSim/src/org/fog/placement/Controller.java</file>
-            <file>file:/home/futebol/simulation-tools/iFogSim/src/org/fog/test/perfeval/TwoApps.java</file>
+            <file>file:/home/futebol/simulation-tools/iFogSim/src/org/fog/entities/FogBroker.java</file>
             <file>file:/home/futebol/simulation-tools/iFogSim/src/org/fog/placement/ModulePlacementEdgewards.java</file>
             <file>file:/home/futebol/simulation-tools/iFogSim/src/fog/VideoFogBroker.java</file>
         </group>
