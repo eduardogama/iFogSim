@@ -73,8 +73,9 @@ public class VideoStreams implements Callable<String> {
         this.seedShift = seedShift;
     }
 
-    public VideoStreams(String s, int userId, int videoId, ParseCmdLine properties) {
+    public VideoStreams(String s, String inputdataFolderURL,int userId, int videoId, ParseCmdLine properties) {
         this.command = s;
+        this.inputdataFolderURL = inputdataFolderURL;
         this.userId = userId;
         this.videoId = videoId;
         this.properties = properties;
@@ -96,11 +97,11 @@ public class VideoStreams implements Callable<String> {
     }
 
     private void processCommand() {
-
+        
         //Read the files in the datafile folder	
         //File folder = new File("/Users/lxb200709/Documents/TransCloud/cloudsim/modules/cloudsim-impl/resources/inputdatafile"); 
         File folder = new File(inputdataFolderURL);
-
+        
         File[] listOfFiles = folder.listFiles();
 
         /*Random randomSeed = new Random(seedShift);

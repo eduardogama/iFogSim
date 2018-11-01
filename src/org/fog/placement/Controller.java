@@ -20,6 +20,7 @@ import org.apache.commons.math3.util.Pair;
 import org.cloudbus.cloudsim.core.CloudSim;
 import org.cloudbus.cloudsim.core.SimEntity;
 import org.cloudbus.cloudsim.core.SimEvent;
+import static org.cloudbus.cloudsim.sdn.example.SDNBroker.appId;
 import org.fog.application.AppEdge;
 import org.fog.application.AppLoop;
 import org.fog.application.AppModule;
@@ -35,14 +36,22 @@ import org.fog.utils.TimeKeeper;
 import org.fog_impl.VideoSegment;
 import org.fog_impl.VideoStreams;
 import phd.ParseCmdLine;
+import phd.apps.ApplicationModel;
 
 public class Controller extends SimEntity {
+
+    private static final int CREATE_JOB = 150;
+    private static final int PERIODIC_UPDATE = 153;
+    private static final int CHECK_UTILIZATION = 130;
 
     public static boolean ONLY_CLOUD = false;
 
     private static List<VideoSegment> cloudletNewArrivalQueue = Collections.synchronizedList(new ArrayList<VideoSegment>());
     private static List<VideoSegment> cloudletBatchQueue = Collections.synchronizedList(new ArrayList<VideoSegment>());
     private ParseCmdLine properties;
+
+    private int periodicDelay;
+    private double utilizationCheckPeriod = 1000;
 
     private List<FogDevice> fogDevices;
     private List<Sensor> sensors;
@@ -81,9 +90,11 @@ public class Controller extends SimEntity {
         this.applications = new HashMap<String, Application>();
         setAppLaunchDelays(new HashMap<String, Integer>());
         setAppModulePlacementPolicy(new HashMap<String, ModulePlacement>());
+
         for (FogDevice fogDevice : fogDevices) {
             fogDevice.setControllerId(getId());
         }
+
         setFogDevices(fogDevices);
         setActuators(actuators);
         setSensors(sensors);
@@ -117,7 +128,13 @@ public class Controller extends SimEntity {
 
     @Override
     public void startEntity() {
+        schedule(getId(), 0, CREATE_JOB);
 
+        send(getId(), utilizationCheckPeriod, CHECK_UTILIZATION);
+        send(getId(), periodicDelay, PERIODIC_UPDATE);
+    }
+
+    private void StartSim() {
         for (String appId : applications.keySet()) {
             if (getAppLaunchDelays().get(appId) == 0) {
                 processAppSubmit(applications.get(appId));
@@ -127,7 +144,6 @@ public class Controller extends SimEntity {
         }
 
         send(getId(), Config.RESOURCE_MANAGE_INTERVAL, FogEvents.CONTROLLER_RESOURCE_MANAGE);
-
         send(getId(), Config.MAX_SIMULATION_TIME, FogEvents.STOP_SIMULATION);
 
         for (FogDevice dev : getFogDevices()) {
@@ -135,8 +151,6 @@ public class Controller extends SimEntity {
         }
 
         scheduleMobility();
-
-//        processNewJobs();
     }
 
     public void setMobilityMap(Map<Integer, Pair<Double, Integer>> mobilityMap) {
@@ -200,6 +214,17 @@ public class Controller extends SimEntity {
             case FogEvents.FUTURE_MOBILITY:
                 manageMobility(ev);
                 break;
+
+            case CREATE_JOB:
+                processNewJobs();
+                break;
+
+            case PERIODIC_UPDATE:
+                processProvisioning();
+                break;
+            case CHECK_UTILIZATION:
+                checkCpuUtilization();
+                break;
         }
     }
 
@@ -248,15 +273,15 @@ public class Controller extends SimEntity {
         System.out.println("=========================================");
         for (Integer loopId : TimeKeeper.getInstance().getLoopIdToTupleIds().keySet()) {
             /*double average = 0, count = 0;
-			for(int tupleId : TimeKeeper.getInstance().getLoopIdToTupleIds().get(loopId)){
-				Double startTime = 	TimeKeeper.getInstance().getEmitTimes().get(tupleId);
-				Double endTime = 	TimeKeeper.getInstance().getEndTimes().get(tupleId);
-				if(startTime == null || endTime == null)
-					break;
-				average += endTime-startTime;
-				count += 1;
-			}
-			System.out.println(getStringForLoopId(loopId) + " ---> "+(average/count));*/
+             for(int tupleId : TimeKeeper.getInstance().getLoopIdToTupleIds().get(loopId)){
+             Double startTime = 	TimeKeeper.getInstance().getEmitTimes().get(tupleId);
+             Double endTime = 	TimeKeeper.getInstance().getEndTimes().get(tupleId);
+             if(startTime == null || endTime == null)
+             break;
+             average += endTime-startTime;
+             count += 1;
+             }
+             System.out.println(getStringForLoopId(loopId) + " ---> "+(average/count));*/
             System.out.println(getStringForLoopId(loopId) + " ---> " + TimeKeeper.getInstance().getLoopIdToCurrentAverage().get(loopId));
         }
         System.out.println("=========================================");
@@ -488,7 +513,7 @@ public class Controller extends SimEntity {
             ArrayList<Callable<String>> callables = new ArrayList<Callable<String>>();
             for (int i = 0; i < 1; i++) {
                 int cloudlets = (int) getRandomNumber(10, 50, random);
-                callables.add(new VideoStreams(videoId + "", brokerId, videoId, properties));
+                callables.add(new VideoStreams(videoId + "", properties.getInputdataFolderURL(), brokerId, videoId, properties));
                 videoId++;
             }
 
@@ -511,8 +536,20 @@ public class Controller extends SimEntity {
         cloudletBatchQueue = vt.getBatchQueue();
         cloudletNewArrivalQueue = vt.getNewArrivalQueue();
 
-        
         broker.submitCloudletList(cloudletBatchQueue, cloudletNewArrivalQueue);
+        
+        Application application = ApplicationModel.createVideoApplication(appId+"", broker.getId());
+        application.setUserId(broker.getId());
+        //Next step: implement application modules
+        
+    }
+
+    public void processProvisioning() {
+
+    }
+
+    public void checkCpuUtilization() {
+
     }
 
     //Generate random number for random length cloudlets

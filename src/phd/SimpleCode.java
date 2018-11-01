@@ -12,8 +12,6 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
-import static javax.xml.bind.JAXBIntrospector.getValue;
-import static jdk.xml.internal.JdkXmlUtils.getValue;
 import org.apache.commons.math3.util.Pair;
 import org.cloudbus.cloudsim.Host;
 import org.cloudbus.cloudsim.Log;
@@ -133,8 +131,9 @@ public class SimpleCode {
 
     private static FogDevice addDevice(String id, int userId, String appId, int parentId) {
 
-        FogDevice device = createAFogDevice("FogDevice-" + id, getValue(12000, 15000), getValue(4000, 8000),
-                getValue(200, 300), getValue(500, 1000), 1, 0.01, getValue(100, 120), getValue(70, 75));
+        FogDevice device = null;
+//        device = createAFogDevice("FogDevice-" + id, getValue(12000, 15000), getValue(4000, 8000),
+//                getValue(200, 300), getValue(500, 1000), 1, 0.01, getValue(100, 120), getValue(70, 75));
 
         device.setParentId(parentId);
 

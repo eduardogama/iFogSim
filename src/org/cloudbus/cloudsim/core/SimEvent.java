@@ -7,10 +7,6 @@
  */
 package org.cloudbus.cloudsim.core;
 
-import java.util.ArrayList;
-import phd.PrintOutputFile;
-import static sun.java2d.cmm.ColorTransform.Simulation;
-
 /**
  * This class represents a simulation event which is passed between the entities
  * in the simulation.

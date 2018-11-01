@@ -32,6 +32,10 @@ public class FogEvents {
     public static final int FUTURE_MOBILITY = BASE + 26;
 
     /**
+     * Denotes a ControllerFogVideo
+     */
+
+    /**
      * Denotes an internal event generated in a VideoFogBroker
      */
 //    public static final int VM_BROKER_EVENT = BASE + 27;

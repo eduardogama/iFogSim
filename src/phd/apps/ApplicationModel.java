@@ -202,5 +202,35 @@ public class ApplicationModel {
 
         return app;
     }
+    
+    @SuppressWarnings({"serial"})
+    public static Application createVideoApplication(String appId, int userId) {
+        Application application = Application.createApplication(appId, userId);
+
+        application.addAppModule("clientModule", 10, 1000, 1000, 100);
+        application.addAppModule("storageModule", 10, 50, 12000, 100);
+
+        application.addAppEdge("storageModule", "clientModule", 100, 0, 20000, "VideoStream", Tuple.DOWN, AppEdge.MODULE);
+        application.addAppEdge("clientModule", "IoTActuator", 100, 0, 20000, "VideoStream", Tuple.DOWN, AppEdge.ACTUATOR);
+
+        application.addTupleMapping("storageModule", "VideoStream", "VideoStream", new FractionalSelectivity(1.0));
+
+        final AppLoop loop1 = new AppLoop(new ArrayList<String>() {
+            {
+                add("storageModule");
+                add("clientModule");
+                add("IoTActuator");
+            }
+        });
+        List<AppLoop> loops = new ArrayList<AppLoop>() {
+            {
+                add(loop1);
+            }
+        };
+
+        application.setLoops(loops);
+
+        return application;
+    }
 
 }
