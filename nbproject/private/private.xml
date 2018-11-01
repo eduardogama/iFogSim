@@ -20,14 +20,6 @@
             </bookmark>
         </file>
         <file>
-            <url>src/test/VideoFog.java</url>
-            <bookmark id="5">
-                <name/>
-                <line>183</line>
-                <key/>
-            </bookmark>
-        </file>
-        <file>
             <url>src/test/VideoFogMain.java</url>
             <bookmark id="6">
                 <name/>
@@ -43,15 +35,23 @@
                 <key/>
             </bookmark>
         </file>
+        <file>
+            <url>src/test/VideoFog.java</url>
+            <bookmark id="5">
+                <name/>
+                <line>183</line>
+                <key/>
+            </bookmark>
+        </file>
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/home/futebol/simulation-tools/iFogSim/src/test/VideoFogMain.java</file>
-            <file>file:/home/futebol/simulation-tools/iFogSim/src/org/fog_impl/VideoStreams.java</file>
             <file>file:/home/futebol/simulation-tools/iFogSim/src/org/fog/placement/Controller.java</file>
-            <file>file:/home/futebol/simulation-tools/iFogSim/src/org/fog/entities/FogBroker.java</file>
-            <file>file:/home/futebol/simulation-tools/iFogSim/src/org/fog/placement/ModulePlacementEdgewards.java</file>
-            <file>file:/home/futebol/simulation-tools/iFogSim/src/fog/VideoFogBroker.java</file>
+            <file>file:/home/futebol/simulation-tools/iFogSim/src/phd/PrintOutputFile.java</file>
+            <file>file:/home/futebol/simulation-tools/iFogSim/src/org/cloudbus/cloudsim/core/CloudSim.java</file>
+            <file>file:/home/futebol/simulation-tools/iFogSim/src/org/cloudbus/cloudsim/core/SimEntity.java</file>
+            <file>file:/home/futebol/simulation-tools/iFogSim/src/org/cloudbus/cloudsim/core/SimEvent.java</file>
         </group>
     </open-files>
 </project-private>

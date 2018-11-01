@@ -1,6 +1,10 @@
-package org.fog.placement;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package phd;
 
-import org.fog_impl.VideoFogBroker;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Collections;
@@ -16,7 +20,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import org.apache.commons.math3.util.Pair;
-
 import org.cloudbus.cloudsim.core.CloudSim;
 import org.cloudbus.cloudsim.core.SimEntity;
 import org.cloudbus.cloudsim.core.SimEvent;
@@ -28,17 +31,25 @@ import org.fog.application.Application;
 import org.fog.entities.Actuator;
 import org.fog.entities.FogDevice;
 import org.fog.entities.Sensor;
+import org.fog.placement.ModuleMapping;
+import org.fog.placement.ModulePlacement;
+import org.fog.placement.ModulePlacementEdgewards;
+import org.fog.placement.ModulePlacementMapping;
 import org.fog.utils.Config;
 import org.fog.utils.FogEvents;
 import org.fog.utils.FogUtils;
 import org.fog.utils.NetworkUsageMonitor;
 import org.fog.utils.TimeKeeper;
+import org.fog_impl.VideoFogBroker;
 import org.fog_impl.VideoSegment;
 import org.fog_impl.VideoStreams;
-import phd.ParseCmdLine;
 import phd.apps.ApplicationModel;
 
-public class Controller extends SimEntity {
+/**
+ *
+ * @author futebol
+ */
+public class VideoFogController extends SimEntity {
 
     private static final int CREATE_JOB = 150;
     private static final int PERIODIC_UPDATE = 153;
@@ -68,7 +79,7 @@ public class Controller extends SimEntity {
     private VideoFogBroker broker;
     private int videoId = 0;
 
-    public Controller(String name, List<FogDevice> fogDevices, List<Sensor> sensors, List<Actuator> actuators) {
+    public VideoFogController(String name, List<FogDevice> fogDevices, List<Sensor> sensors, List<Actuator> actuators) {
         super(name);
         this.applications = new HashMap<String, Application>();
         setAppLaunchDelays(new HashMap<String, Integer>());
@@ -85,7 +96,7 @@ public class Controller extends SimEntity {
 //        formClusters();
     }
 
-    public Controller(String name, List<FogDevice> fogDevices, List<Sensor> sensors, List<Actuator> actuators, ParseCmdLine properties) {
+    public VideoFogController(String name, List<FogDevice> fogDevices, List<Sensor> sensors, List<Actuator> actuators, ParseCmdLine properties) {
         super(name);
         this.applications = new HashMap<String, Application>();
         setAppLaunchDelays(new HashMap<String, Integer>());
@@ -214,12 +225,9 @@ public class Controller extends SimEntity {
             case FogEvents.FUTURE_MOBILITY:
                 manageMobility(ev);
                 break;
-               /**
-                * Definition of simulation continuation 
-                */
+
             case CREATE_JOB:
                 processNewJobs();
-                StartSim();
                 break;
 
             case PERIODIC_UPDATE:
@@ -540,11 +548,25 @@ public class Controller extends SimEntity {
         cloudletNewArrivalQueue = vt.getNewArrivalQueue();
 
         broker.submitCloudletList(cloudletBatchQueue, cloudletNewArrivalQueue);
-        
-        Application application = ApplicationModel.createVideoApplication(appId+"", broker.getId());
+
+        Application application = ApplicationModel.createVideoApplication(appId + "", broker.getId());
         application.setUserId(broker.getId());
         //Next step: implement application modules
+
+        ModuleMapping moduleMapping = ModuleMapping.createModuleMapping();
+
+        for (FogDevice fogDevice : getFogDevices()) {
+            if (fogDevice.getName().startsWith("e")) {
+                moduleMapping.addModuleToDevice("clientModule", fogDevice.getName());
+            }
+        }
+
+        if (true) {
+            moduleMapping.addModuleToDevice("storageModule", "cloud");
+        }
         
+        submitApplication(application,new ModulePlacementEdgewards(fogDevices, sensors, actuators, application, moduleMapping));
+        StartSim();
     }
 
     public void processProvisioning() {

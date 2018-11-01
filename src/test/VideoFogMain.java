@@ -74,8 +74,8 @@ public class VideoFogMain {
 
         Log.printLine("Starting Video Streame Service...");
 
-        String[] arg = {"-property", "/home/eduardo/simulation-tools/iFogSim/resources/config.properties",
-            "-input", "/home/eduardo/simulation-tools/iFogSim/resources/inputdataFile",
+        String[] arg = {"-property", "/home/futebol/simulation-tools/iFogSim/resources/config.properties",
+            "-input", "/home/futebol/simulation-tools/iFogSim/resources/inputdataFile",
             "-output", "/home/futebol/simulation-tools/iFogSim/resources/outputFile/test.txt",
             "-stqprediction",
             "-videonum", "10",
@@ -123,24 +123,24 @@ public class VideoFogMain {
             Application application = createApplication(appId, broker.getId());
             application.setUserId(broker.getId());
 
-            ModuleMapping moduleMapping = ModuleMapping.createModuleMapping();
-
-            for (int i = 0; i < idOfEndDevices.size(); i++) {
-                FogDevice fogDevice = deviceById.get(idOfEndDevices.get(i));
-                moduleMapping.addModuleToDevice("clientModule", fogDevice.getName());
-            }
-
-            if (true) {
-                moduleMapping.addModuleToDevice("storageModule", "cloud");
-            }
+//            ModuleMapping moduleMapping = ModuleMapping.createModuleMapping();
+//
+//            for (int i = 0; i < idOfEndDevices.size(); i++) {
+//                FogDevice fogDevice = deviceById.get(idOfEndDevices.get(i));
+//                moduleMapping.addModuleToDevice("clientModule", fogDevice.getName());
+//            }
+//
+//            if (true) {
+//                moduleMapping.addModuleToDevice("storageModule", "cloud");
+//            }
 
             Controller controller = new Controller("master-controller", fogDevices, sensors, actuators, pcl);
             
             controller.setBroker(broker);
             
-            controller.submitApplication(application,
-                    (false) ? (new ModulePlacementMapping(fogDevices, application, moduleMapping))
-                            : (new ModulePlacementEdgewards(fogDevices, sensors, actuators, application, moduleMapping)));
+//            controller.submitApplication(application,
+//                    (false) ? (new ModulePlacementMapping(fogDevices, application, moduleMapping))
+//                            : (new ModulePlacementEdgewards(fogDevices, sensors, actuators, application, moduleMapping)));
 
             TimeKeeper.getInstance().setSimulationStartTime(Calendar.getInstance().getTimeInMillis());
 
