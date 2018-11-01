@@ -547,9 +547,11 @@ public class VideoFogController extends SimEntity {
         cloudletBatchQueue = vt.getBatchQueue();
         cloudletNewArrivalQueue = vt.getNewArrivalQueue();
 
-        broker.submitCloudletList(cloudletBatchQueue, cloudletNewArrivalQueue);
+//        broker.submitCloudletList(cloudletBatchQueue, cloudletNewArrivalQueue);
 
-        Application application = ApplicationModel.createVideoApplication(appId + "", broker.getId());
+        String appId = "Video Stream";
+
+        Application application = ApplicationModel.createVideoApplication(appId, broker.getId());
         application.setUserId(broker.getId());
         //Next step: implement application modules
 
@@ -558,14 +560,16 @@ public class VideoFogController extends SimEntity {
         for (FogDevice fogDevice : getFogDevices()) {
             if (fogDevice.getName().startsWith("e")) {
                 moduleMapping.addModuleToDevice("clientModule", fogDevice.getName());
+                System.out.println("NAME EDGE DEVICE: " + fogDevice.getName());
             }
         }
 
         if (true) {
             moduleMapping.addModuleToDevice("storageModule", "cloud");
         }
-        
-        submitApplication(application,new ModulePlacementEdgewards(fogDevices, sensors, actuators, application, moduleMapping));
+
+        submitApplication(application, new ModulePlacementEdgewards(getFogDevices(), getSensors(), getActuators(), application, moduleMapping));
+
         StartSim();
     }
 

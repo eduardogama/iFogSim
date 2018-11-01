@@ -227,9 +227,6 @@ public class VideoStreams implements Callable<String> {
             double max_c = 0.0;
 
             for (String vmType : cloudletLengthMap.keySet()) {
-                
-                System.out.println("> " + vmType);
-                
                 InstanceType it = new InstanceType(vmType);
                 double t = cloudletLengthMap.get(vmType) / (1000.0 * it.getInstanceMips());
                 double c = it.getInstanceCost();

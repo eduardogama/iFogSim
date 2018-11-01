@@ -41,6 +41,7 @@ import org.fog.utils.TimeKeeper;
 import org.kohsuke.args4j.CmdLineException;
 import org.kohsuke.args4j.CmdLineParser;
 import phd.ParseCmdLine;
+import phd.VideoFogController;
 
 /**
  * Simulation setup for case study 2 - Intelligent Surveillance
@@ -120,9 +121,9 @@ public class VideoFogMain {
 
             createFogDevices(broker.getId(), appId);
 
-            Application application = createApplication(appId, broker.getId());
-            application.setUserId(broker.getId());
-
+//            Application application = createApplication(appId, broker.getId());
+//            application.setUserId(broker.getId());
+//
 //            ModuleMapping moduleMapping = ModuleMapping.createModuleMapping();
 //
 //            for (int i = 0; i < idOfEndDevices.size(); i++) {
@@ -134,7 +135,7 @@ public class VideoFogMain {
 //                moduleMapping.addModuleToDevice("storageModule", "cloud");
 //            }
 
-            Controller controller = new Controller("master-controller", fogDevices, sensors, actuators, pcl);
+            VideoFogController controller = new VideoFogController("master-controller", fogDevices, sensors, actuators, pcl);
             
             controller.setBroker(broker);
             

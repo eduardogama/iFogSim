@@ -125,7 +125,7 @@ public class CreateVideoData {
                 while ((sCurrentLine = br.readLine()) != null) {
                     if (sCurrentLine.length() > 0) {
                         
-                        System.out.println("> " + sCurrentLine);
+//                        System.out.println("> " + sCurrentLine);
                         String[] arr = sCurrentLine.split("\\s+");
                         
                         if (arr[0].equals(splitterFlag)) {
