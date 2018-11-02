@@ -6,121 +6,121 @@ import java.util.Map;
 import org.cloudbus.cloudsim.Cloudlet;
 import org.cloudbus.cloudsim.UtilizationModel;
 
-public class Tuple extends Cloudlet{
+public class Tuple extends Cloudlet {
 
-	public static final int UP = 1;
-	public static final int DOWN = 2;
-	public static final int ACTUATOR = 3;
-	
-	private String appId;
-	
-	private String tupleType;
-	private String destModuleName;
-	private String srcModuleName;
-	private int actualTupleId;
-	private int direction;
-	private int actuatorId;
-	private int sourceDeviceId;
-	private int sourceModuleId;
-	/**
-	 * Map to keep track of which module instances has a tuple traversed.
-	 * 
-	 * Map from moduleName to vmId of a module instance
-	 */
-	private Map<String, Integer> moduleCopyMap;
-	
-	public Tuple(String appId, int cloudletId, int direction, long cloudletLength, int pesNumber,
-			long cloudletFileSize, long cloudletOutputSize,
-			UtilizationModel utilizationModelCpu,
-			UtilizationModel utilizationModelRam,
-			UtilizationModel utilizationModelBw) {
-		super(cloudletId, cloudletLength, pesNumber, cloudletFileSize,
-				cloudletOutputSize, utilizationModelCpu, utilizationModelRam,
-				utilizationModelBw);
-		setAppId(appId);
-		setDirection(direction);
-		setSourceDeviceId(-1);
-		setModuleCopyMap(new HashMap<String, Integer>());
-	}
+    public static final int UP = 1;
+    public static final int DOWN = 2;
+    public static final int ACTUATOR = 3;
 
-	public int getActualTupleId() {
-		return actualTupleId;
-	}
+    private String appId;
 
-	public void setActualTupleId(int actualTupleId) {
-		this.actualTupleId = actualTupleId;
-	}
+    private String tupleType;
+    private String destModuleName;
+    private String srcModuleName;
+    private int actualTupleId;
+    private int direction;
+    private int actuatorId;
+    private int sourceDeviceId;
+    private int sourceModuleId;
+    /**
+     * Map to keep track of which module instances has a tuple traversed.
+     *
+     * Map from moduleName to vmId of a module instance
+     */
+    private Map<String, Integer> moduleCopyMap;
 
-	public String getAppId() {
-		return appId;
-	}
+    public Tuple(String appId, int cloudletId, int direction, long cloudletLength, int pesNumber,
+            long cloudletFileSize, long cloudletOutputSize,
+            UtilizationModel utilizationModelCpu,
+            UtilizationModel utilizationModelRam,
+            UtilizationModel utilizationModelBw) {
+        super(cloudletId, cloudletLength, pesNumber, cloudletFileSize,
+                cloudletOutputSize, utilizationModelCpu, utilizationModelRam,
+                utilizationModelBw);
+        setAppId(appId);
+        setDirection(direction);
+        setSourceDeviceId(-1);
+        setModuleCopyMap(new HashMap<String, Integer>());
+    }
 
-	public void setAppId(String appId) {
-		this.appId = appId;
-	}
+    public int getActualTupleId() {
+        return actualTupleId;
+    }
 
-	public String getTupleType() {
-		return tupleType;
-	}
+    public void setActualTupleId(int actualTupleId) {
+        this.actualTupleId = actualTupleId;
+    }
 
-	public void setTupleType(String tupleType) {
-		this.tupleType = tupleType;
-	}
+    public String getAppId() {
+        return appId;
+    }
 
-	public String getDestModuleName() {
-		return destModuleName;
-	}
+    public void setAppId(String appId) {
+        this.appId = appId;
+    }
 
-	public void setDestModuleName(String destModuleName) {
-		this.destModuleName = destModuleName;
-	}
+    public String getTupleType() {
+        return tupleType;
+    }
 
-	public String getSrcModuleName() {
-		return srcModuleName;
-	}
+    public void setTupleType(String tupleType) {
+        this.tupleType = tupleType;
+    }
 
-	public void setSrcModuleName(String srcModuleName) {
-		this.srcModuleName = srcModuleName;
-	}
+    public String getDestModuleName() {
+        return destModuleName;
+    }
 
-	public int getDirection() {
-		return direction;
-	}
+    public void setDestModuleName(String destModuleName) {
+        this.destModuleName = destModuleName;
+    }
 
-	public void setDirection(int direction) {
-		this.direction = direction;
-	}
+    public String getSrcModuleName() {
+        return srcModuleName;
+    }
 
-	public int getActuatorId() {
-		return actuatorId;
-	}
+    public void setSrcModuleName(String srcModuleName) {
+        this.srcModuleName = srcModuleName;
+    }
 
-	public void setActuatorId(int actuatorId) {
-		this.actuatorId = actuatorId;
-	}
+    public int getDirection() {
+        return direction;
+    }
 
-	public int getSourceDeviceId() {
-		return sourceDeviceId;
-	}
+    public void setDirection(int direction) {
+        this.direction = direction;
+    }
 
-	public void setSourceDeviceId(int sourceDeviceId) {
-		this.sourceDeviceId = sourceDeviceId;
-	}
+    public int getActuatorId() {
+        return actuatorId;
+    }
 
-	public Map<String, Integer> getModuleCopyMap() {
-		return moduleCopyMap;
-	}
+    public void setActuatorId(int actuatorId) {
+        this.actuatorId = actuatorId;
+    }
 
-	public void setModuleCopyMap(Map<String, Integer> moduleCopyMap) {
-		this.moduleCopyMap = moduleCopyMap;
-	}
+    public int getSourceDeviceId() {
+        return sourceDeviceId;
+    }
 
-	public int getSourceModuleId() {
-		return sourceModuleId;
-	}
+    public void setSourceDeviceId(int sourceDeviceId) {
+        this.sourceDeviceId = sourceDeviceId;
+    }
 
-	public void setSourceModuleId(int sourceModuleId) {
-		this.sourceModuleId = sourceModuleId;
-	}
+    public Map<String, Integer> getModuleCopyMap() {
+        return moduleCopyMap;
+    }
+
+    public void setModuleCopyMap(Map<String, Integer> moduleCopyMap) {
+        this.moduleCopyMap = moduleCopyMap;
+    }
+
+    public int getSourceModuleId() {
+        return sourceModuleId;
+    }
+
+    public void setSourceModuleId(int sourceModuleId) {
+        this.sourceModuleId = sourceModuleId;
+    }
 
 }

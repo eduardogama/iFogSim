@@ -76,7 +76,7 @@ public class VideoFogMain {
         Log.printLine("Starting Video Streame Service...");
 
         String[] arg = {"-property", "/home/eduardo/simulation-tools/iFogSim/resources/config.properties",
-            "-input", "/home/eduardo/simulation-tools/iFogSim/resources/inputdataFile",
+            "-input", "/home/futebol/simulation-tools/iFogSim/resources/inputdataFile",
             "-output", "/home/eduardo/simulation-tools/iFogSim/resources/outputFile/test.txt",
             "-stqprediction",
             "-videonum", "10",
@@ -106,7 +106,7 @@ public class VideoFogMain {
             System.err.println(e.getMessage());
             parser.printUsage(System.err);
         }
-        
+
         try {
             Log.disable();
 
@@ -134,15 +134,13 @@ public class VideoFogMain {
 //            if (true) {
 //                moduleMapping.addModuleToDevice("storageModule", "cloud");
 //            }
-
             VideoFogController controller = new VideoFogController("master-controller", fogDevices, sensors, actuators, pcl);
-            
+
             controller.setBroker(broker);
-            
+
 //            controller.submitApplication(application,
 //                    (false) ? (new ModulePlacementMapping(fogDevices, application, moduleMapping))
 //                            : (new ModulePlacementEdgewards(fogDevices, sensors, actuators, application, moduleMapping)));
-
             TimeKeeper.getInstance().setSimulationStartTime(Calendar.getInstance().getTimeInMillis());
 
             CloudSim.startSimulation();

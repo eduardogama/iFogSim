@@ -5,6 +5,7 @@
  */
 package phd;
 
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Collections;
@@ -20,6 +21,8 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import org.apache.commons.math3.util.Pair;
+import org.cloudbus.cloudsim.Cloudlet;
+import org.cloudbus.cloudsim.Log;
 import org.cloudbus.cloudsim.core.CloudSim;
 import org.cloudbus.cloudsim.core.SimEntity;
 import org.cloudbus.cloudsim.core.SimEvent;
@@ -220,6 +223,7 @@ public class VideoFogController extends SimEntity {
                 printPowerDetails();
                 printCostDetails();
                 printNetworkUsageDetails();
+                printCloudletList(getApplications());
                 System.exit(0);
                 break;
             case FogEvents.FUTURE_MOBILITY:
@@ -242,6 +246,27 @@ public class VideoFogController extends SimEntity {
 
     private void printNetworkUsageDetails() {
         System.out.println("Total network usage = " + NetworkUsageMonitor.getNetworkUsage() / Config.MAX_SIMULATION_TIME);
+    }
+
+    /**
+     * Prints the Cloudlet objects.
+     *
+     * @param list list of Cloudlets
+     */
+    private static void printCloudletList(Map<String, Application> list) {
+        String indent = "    ";
+        System.out.println("========== OUTPUT (" + list.size() + ") ==========");
+        System.out.println("App ID" + indent + "DEADLINE");
+
+        DecimalFormat dft = new DecimalFormat("###.##");
+
+        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+        for (Map.Entry<String, Application> entry : list.entrySet()) {
+            String key = entry.getKey();
+            Application app = (Application) entry.getValue();
+            
+            System.out.println(app.getAppId() + indent + app.getDeadlineInfo() + indent);
+        }
     }
 
     private FogDevice getCloud() {
@@ -562,9 +587,8 @@ public class VideoFogController extends SimEntity {
                 moduleMapping.addModuleToDevice("clientModule", fogDevice.getName());
             }
         }
-        
+
         moduleMapping.addModuleToDevice("storageModule", "cloud");
-        
 
         submitApplication(application, new ModulePlacementEdgewards(getFogDevices(), getSensors(), getActuators(), application, moduleMapping));
 
