@@ -57,7 +57,6 @@ public class ModulePlacementEdgewards extends ModulePlacement {
 
     @Override
     protected void mapModules() {
-
         for (String deviceName : getModuleMapping().getModuleMapping().keySet()) {
             for (String moduleName : getModuleMapping().getModuleMapping().get(deviceName)) {
                 int deviceId = CloudSim.getEntityId(deviceName);
@@ -75,7 +74,6 @@ public class ModulePlacementEdgewards extends ModulePlacement {
 
         for (int deviceId : getCurrentModuleMap().keySet()) {
             for (String module : getCurrentModuleMap().get(deviceId)) {
-
                 createModuleInstanceOnDevice(getApplication().getModuleByName(module), getFogDeviceById(deviceId));
             }
         }
@@ -98,7 +96,7 @@ public class ModulePlacementEdgewards extends ModulePlacement {
             }
         }
         /*
-		 * Filtering based on whether modules (to be placed) lower in physical topology are already placed
+         * Filtering based on whether modules (to be placed) lower in physical topology are already placed
          */
         for (String moduleName : modulesToPlace_1) {
             boolean toBePlaced = true;
@@ -374,23 +372,23 @@ public class ModulePlacementEdgewards extends ModulePlacement {
         modules.add(module);
         return findModulesToShift(modules, deviceId);
         /*List<String> upstreamModules = new ArrayList<String>();
-		upstreamModules.add(module);
-		boolean changed = true;
-		while(changed){ // Keep loop running as long as new information is added.
-			changed = false;
-			for(AppEdge edge : getApplication().getEdges()){
+         upstreamModules.add(module);
+         boolean changed = true;
+         while(changed){ // Keep loop running as long as new information is added.
+         changed = false;
+         for(AppEdge edge : getApplication().getEdges()){
 				
-				 * If there is an application edge UP from the module to be shifted to another module in the same device
+         * If there is an application edge UP from the module to be shifted to another module in the same device
 				 
-				if(upstreamModules.contains(edge.getSource()) && edge.getDirection()==Tuple.UP && 
-						getCurrentModuleMap().get(deviceId).contains(edge.getDestination()) 
-						&& !upstreamModules.contains(edge.getDestination())){
-					upstreamModules.add(edge.getDestination());
-					changed = true;
-				}
-			}
-		}
-		return upstreamModules;	*/
+         if(upstreamModules.contains(edge.getSource()) && edge.getDirection()==Tuple.UP && 
+         getCurrentModuleMap().get(deviceId).contains(edge.getDestination()) 
+         && !upstreamModules.contains(edge.getDestination())){
+         upstreamModules.add(edge.getDestination());
+         changed = true;
+         }
+         }
+         }
+         return upstreamModules;	*/
     }
 
     /**
@@ -411,7 +409,7 @@ public class ModulePlacementEdgewards extends ModulePlacement {
         while (changed) { // Keep loop running as long as new information is added.
             changed = false;
             /*
-			 * If there is an application edge UP from the module to be shifted to another module in the same device
+             * If there is an application edge UP from the module to be shifted to another module in the same device
              */
             for (AppEdge edge : getApplication().getEdges()) {
                 if (upstreamModules.contains(edge.getSource()) && edge.getDirection() == Tuple.UP

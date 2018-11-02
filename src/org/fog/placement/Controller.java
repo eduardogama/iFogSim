@@ -128,13 +128,6 @@ public class Controller extends SimEntity {
 
     @Override
     public void startEntity() {
-        schedule(getId(), 0, CREATE_JOB);
-
-        send(getId(), utilizationCheckPeriod, CHECK_UTILIZATION);
-        send(getId(), periodicDelay, PERIODIC_UPDATE);
-    }
-
-    private void StartSim() {
         for (String appId : applications.keySet()) {
             if (getAppLaunchDelays().get(appId) == 0) {
                 processAppSubmit(applications.get(appId));
@@ -213,20 +206,6 @@ public class Controller extends SimEntity {
                 break;
             case FogEvents.FUTURE_MOBILITY:
                 manageMobility(ev);
-                break;
-               /**
-                * Definition of simulation continuation 
-                */
-            case CREATE_JOB:
-                processNewJobs();
-                StartSim();
-                break;
-
-            case PERIODIC_UPDATE:
-                processProvisioning();
-                break;
-            case CHECK_UTILIZATION:
-                checkCpuUtilization();
                 break;
         }
     }
@@ -540,11 +519,11 @@ public class Controller extends SimEntity {
         cloudletNewArrivalQueue = vt.getNewArrivalQueue();
 
         broker.submitCloudletList(cloudletBatchQueue, cloudletNewArrivalQueue);
-        
-        Application application = ApplicationModel.createVideoApplication(appId+"", broker.getId());
+
+        Application application = ApplicationModel.createVideoApplication(appId + "", broker.getId());
         application.setUserId(broker.getId());
         //Next step: implement application modules
-        
+
     }
 
     public void processProvisioning() {

@@ -75,9 +75,9 @@ public class VideoFogMain {
 
         Log.printLine("Starting Video Streame Service...");
 
-        String[] arg = {"-property", "/home/futebol/simulation-tools/iFogSim/resources/config.properties",
-            "-input", "/home/futebol/simulation-tools/iFogSim/resources/inputdataFile",
-            "-output", "/home/futebol/simulation-tools/iFogSim/resources/outputFile/test.txt",
+        String[] arg = {"-property", "/home/eduardo/simulation-tools/iFogSim/resources/config.properties",
+            "-input", "/home/eduardo/simulation-tools/iFogSim/resources/inputdataFile",
+            "-output", "/home/eduardo/simulation-tools/iFogSim/resources/outputFile/test.txt",
             "-stqprediction",
             "-videonum", "10",
             "-vmqueue", "1",
@@ -147,7 +147,6 @@ public class VideoFogMain {
 
             CloudSim.startSimulation();
 
-            
             CloudSim.stopSimulation();
 
             Log.printLine("Video Streaming finished!");

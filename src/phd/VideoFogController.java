@@ -225,11 +225,12 @@ public class VideoFogController extends SimEntity {
             case FogEvents.FUTURE_MOBILITY:
                 manageMobility(ev);
                 break;
-
+            /**
+             * Definition of simulation continuation
+             */
             case CREATE_JOB:
                 processNewJobs();
                 break;
-
             case PERIODIC_UPDATE:
                 processProvisioning();
                 break;
@@ -548,7 +549,6 @@ public class VideoFogController extends SimEntity {
         cloudletNewArrivalQueue = vt.getNewArrivalQueue();
 
 //        broker.submitCloudletList(cloudletBatchQueue, cloudletNewArrivalQueue);
-
         String appId = "Video Stream";
 
         Application application = ApplicationModel.createVideoApplication(appId, broker.getId());
@@ -560,13 +560,11 @@ public class VideoFogController extends SimEntity {
         for (FogDevice fogDevice : getFogDevices()) {
             if (fogDevice.getName().startsWith("e")) {
                 moduleMapping.addModuleToDevice("clientModule", fogDevice.getName());
-                System.out.println("NAME EDGE DEVICE: " + fogDevice.getName());
             }
         }
-
-        if (true) {
-            moduleMapping.addModuleToDevice("storageModule", "cloud");
-        }
+        
+        moduleMapping.addModuleToDevice("storageModule", "cloud");
+        
 
         submitApplication(application, new ModulePlacementEdgewards(getFogDevices(), getSensors(), getActuators(), application, moduleMapping));
 
