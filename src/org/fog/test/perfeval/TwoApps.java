@@ -87,6 +87,7 @@ public class TwoApps {
             moduleMapping_0.addModuleToDevice("concentration_calculator", "cloud"); // fixing all instances of the Concentration Calculator module to the Cloud
             moduleMapping_1.addModuleToDevice("connector_1", "cloud"); // fixing all instances of the Connector module to the Cloud
             moduleMapping_1.addModuleToDevice("concentration_calculator_1", "cloud"); // fixing all instances of the Concentration Calculator module to the Cloud
+            
             for (FogDevice device : fogDevices) {
                 if (device.getName().startsWith("m")) {
                     moduleMapping_0.addModuleToDevice("client", device.getName());  // fixing all instances of the Client module to the Smartphones
@@ -160,7 +161,6 @@ public class TwoApps {
         for (int i = 0; i < numOfDepts; i++) {
             addGw(i + "", proxy.getId()); // adding a fog device for every Gateway in physical topology. The parent of each gateway is the Proxy Server
         }
-
     }
 
     private static FogDevice addGw(String id, int parentId) {
@@ -274,14 +274,14 @@ public class TwoApps {
         Application application = Application.createApplication(appId, userId); // creates an empty application model (empty directed graph)
 
         /*
-		 * Adding modules (vertices) to the application model (directed graph)
+	 * Adding modules (vertices) to the application model (directed graph)
          */
         application.addAppModule("client", 10); // adding module Client to the application model
         application.addAppModule("concentration_calculator", 10); // adding module Concentration Calculator to the application model
         application.addAppModule("connector", 10); // adding module Connector to the application model
 
         /*
-		 * Connecting the application modules (vertices) in the application model (directed graph) with edges
+	 * Connecting the application modules (vertices) in the application model (directed graph) with edges
          */
         if (EEG_TRANSMISSION_TIME == 10) {
             application.addAppEdge("EEG", "client", 2000, 500, "EEG", Tuple.UP, AppEdge.SENSOR); // adding edge from EEG (sensor) to Client module carrying tuples of type EEG
@@ -296,7 +296,7 @@ public class TwoApps {
         application.addAppEdge("client", "DISPLAY", 1000, 500, "GLOBAL_STATE_UPDATE", Tuple.DOWN, AppEdge.ACTUATOR);  // adding edge from Client module to Display (actuator) carrying tuples of type GLOBAL_STATE_UPDATE
 
         /*
-		 * Defining the input-output relationships (represented by selectivity) of the application modules. 
+	 * Defining the input-output relationships (represented by selectivity) of the application modules. 
          */
         application.addTupleMapping("client", "EEG", "_SENSOR", new FractionalSelectivity(0.9)); // 0.9 tuples of type _SENSOR are emitted by Client module per incoming tuple of type EEG 
         application.addTupleMapping("client", "CONCENTRATION", "SELF_STATE_UPDATE", new FractionalSelectivity(1.0)); // 1.0 tuples of type SELF_STATE_UPDATE are emitted by Client module per incoming tuple of type CONCENTRATION 
@@ -304,8 +304,8 @@ public class TwoApps {
         application.addTupleMapping("client", "GLOBAL_GAME_STATE", "GLOBAL_STATE_UPDATE", new FractionalSelectivity(1.0)); // 1.0 tuples of type GLOBAL_STATE_UPDATE are emitted by Client module per incoming tuple of type GLOBAL_GAME_STATE 
 
         /*
-		 * Defining application loops to monitor the latency of. 
-		 * Here, we add only one loop for monitoring : EEG(sensor) -> Client -> Concentration Calculator -> Client -> DISPLAY (actuator)
+         * Defining application loops to monitor the latency of. 
+         * Here, we add only one loop for monitoring : EEG(sensor) -> Client -> Concentration Calculator -> Client -> DISPLAY (actuator)
          */
         final AppLoop loop1 = new AppLoop(new ArrayList<String>() {
             {
@@ -332,14 +332,14 @@ public class TwoApps {
         Application application = Application.createApplication(appId, userId); // creates an empty application model (empty directed graph)
 
         /*
-		 * Adding modules (vertices) to the application model (directed graph)
+	 * Adding modules (vertices) to the application model (directed graph)
          */
         application.addAppModule("client_1", 10); // adding module Client to the application model
         application.addAppModule("concentration_calculator_1", 10); // adding module Concentration Calculator to the application model
         application.addAppModule("connector_1", 10); // adding module Connector to the application model
 
         /*
-		 * Connecting the application modules (vertices) in the application model (directed graph) with edges
+	 * Connecting the application modules (vertices) in the application model (directed graph) with edges
          */
         if (EEG_TRANSMISSION_TIME == 10) {
             application.addAppEdge("EEG_1", "client_1", 2000, 500, "EEG_1", Tuple.UP, AppEdge.SENSOR); // adding edge from EEG (sensor) to Client module carrying tuples of type EEG
@@ -354,7 +354,7 @@ public class TwoApps {
         application.addAppEdge("client_1", "DISPLAY_1", 1000, 500, "GLOBAL_STATE_UPDATE_1", Tuple.DOWN, AppEdge.ACTUATOR);  // adding edge from Client module to Display (actuator) carrying tuples of type GLOBAL_STATE_UPDATE
 
         /*
-		 * Defining the input-output relationships (represented by selectivity) of the application modules. 
+	 * Defining the input-output relationships (represented by selectivity) of the application modules. 
          */
         application.addTupleMapping("client_1", "EEG_1", "_SENSOR_1", new FractionalSelectivity(0.9)); // 0.9 tuples of type _SENSOR are emitted by Client module per incoming tuple of type EEG 
         application.addTupleMapping("client_1", "CONCENTRATION_1", "SELF_STATE_UPDATE_1", new FractionalSelectivity(1.0)); // 1.0 tuples of type SELF_STATE_UPDATE are emitted by Client module per incoming tuple of type CONCENTRATION 
@@ -362,8 +362,8 @@ public class TwoApps {
         application.addTupleMapping("client_1", "GLOBAL_GAME_STATE_1", "GLOBAL_STATE_UPDATE_1", new FractionalSelectivity(1.0)); // 1.0 tuples of type GLOBAL_STATE_UPDATE are emitted by Client module per incoming tuple of type GLOBAL_GAME_STATE 
 
         /*
-		 * Defining application loops to monitor the latency of. 
-		 * Here, we add only one loop for monitoring : EEG(sensor) -> Client -> Concentration Calculator -> Client -> DISPLAY (actuator)
+	 * Defining application loops to monitor the latency of. 
+	 * Here, we add only one loop for monitoring : EEG(sensor) -> Client -> Concentration Calculator -> Client -> DISPLAY (actuator)
          */
         final AppLoop loop1 = new AppLoop(new ArrayList<String>() {
             {

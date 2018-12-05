@@ -1,0 +1,3047 @@
+Starting Video Streame Service...
+Initialising...
+Starting CloudSim version 3.0
+cloud is starting...
+ap-0 is starting...
+gw-0 is starting...
+eu-0 is starting...
+Entities started.
+
+284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+284,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 0,00 to 284,37:
+
+284,37: [Host #4] utilization at 0,00 was 0,00%, now is 0,00%
+284,37: [Host #4] energy is 0,00 W*sec
+
+284,37: Data center's energy is 0,00 W*sec
+
+
+284.37407407407403: broker-eu-0-0: Cloudlet 1 received
+
+294,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+294,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+294,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+294,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+294,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 284,37 to 294,17:
+
+294,17: [Host #4] utilization at 284,37 was 0,00%, now is 0,00%
+294,17: [Host #4] energy is 0,00 W*sec
+
+294,17: Data center's energy is 0,00 W*sec
+
+
+
+384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+384,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 294,17 to 384,17:
+
+384,17: [Host #4] utilization at 294,17 was 0,00%, now is 0,00%
+384,17: [Host #4] energy is 0,00 W*sec
+
+384,17: Data center's energy is 0,00 W*sec
+
+
+
+384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+384,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 384,17 to 384,37:
+
+384,37: [Host #4] utilization at 384,17 was 0,00%, now is 0,00%
+384,37: [Host #4] energy is 0,00 W*sec
+
+384,37: Data center's energy is 0,00 W*sec
+
+
+384.3740740740741: broker-eu-0-0: Cloudlet 3 received
+
+484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+484,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 384,37 to 484,17:
+
+484,17: [Host #4] utilization at 384,37 was 0,00%, now is 0,00%
+484,17: [Host #4] energy is 0,00 W*sec
+
+484,17: Data center's energy is 0,00 W*sec
+
+
+
+484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+484,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 484,17 to 484,37:
+
+484,37: [Host #4] utilization at 484,17 was 0,00%, now is 0,00%
+484,37: [Host #4] energy is 0,00 W*sec
+
+484,37: Data center's energy is 0,00 W*sec
+
+
+484.3740740740741: broker-eu-0-0: Cloudlet 5 received
+
+584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+584,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 484,37 to 584,17:
+
+584,17: [Host #4] utilization at 484,37 was 0,00%, now is 0,00%
+584,17: [Host #4] energy is 0,00 W*sec
+
+584,17: Data center's energy is 0,00 W*sec
+
+
+
+584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+584,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 584,17 to 584,37:
+
+584,37: [Host #4] utilization at 584,17 was 0,00%, now is 0,00%
+584,37: [Host #4] energy is 0,00 W*sec
+
+584,37: Data center's energy is 0,00 W*sec
+
+
+584.3740740740741: broker-eu-0-0: Cloudlet 7 received
+
+684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+684,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 584,37 to 684,17:
+
+684,17: [Host #4] utilization at 584,37 was 0,00%, now is 0,00%
+684,17: [Host #4] energy is 0,00 W*sec
+
+684,17: Data center's energy is 0,00 W*sec
+
+
+
+684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+684,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 684,17 to 684,37:
+
+684,37: [Host #4] utilization at 684,17 was 0,00%, now is 0,00%
+684,37: [Host #4] energy is 0,00 W*sec
+
+684,37: Data center's energy is 0,00 W*sec
+
+
+684.3740740740741: broker-eu-0-0: Cloudlet 9 received
+
+784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+784,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 684,37 to 784,17:
+
+784,17: [Host #4] utilization at 684,37 was 0,00%, now is 0,00%
+784,17: [Host #4] energy is 0,00 W*sec
+
+784,17: Data center's energy is 0,00 W*sec
+
+
+
+784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+784,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 784,17 to 784,37:
+
+784,37: [Host #4] utilization at 784,17 was 0,00%, now is 0,00%
+784,37: [Host #4] energy is 0,00 W*sec
+
+784,37: Data center's energy is 0,00 W*sec
+
+
+784.3740740740741: broker-eu-0-0: Cloudlet 11 received
+
+884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+884,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 784,37 to 884,17:
+
+884,17: [Host #4] utilization at 784,37 was 0,00%, now is 0,00%
+884,17: [Host #4] energy is 0,00 W*sec
+
+884,17: Data center's energy is 0,00 W*sec
+
+
+
+884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+884,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 884,17 to 884,37:
+
+884,37: [Host #4] utilization at 884,17 was 0,00%, now is 0,00%
+884,37: [Host #4] energy is 0,00 W*sec
+
+884,37: Data center's energy is 0,00 W*sec
+
+
+884.3740740740741: broker-eu-0-0: Cloudlet 13 received
+
+984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+984,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 884,37 to 984,17:
+
+984,17: [Host #4] utilization at 884,37 was 0,00%, now is 0,00%
+984,17: [Host #4] energy is 0,00 W*sec
+
+984,17: Data center's energy is 0,00 W*sec
+
+
+
+984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+984,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 984,17 to 984,37:
+
+984,37: [Host #4] utilization at 984,17 was 0,00%, now is 0,00%
+984,37: [Host #4] energy is 0,00 W*sec
+
+984,37: Data center's energy is 0,00 W*sec
+
+
+984.3740740740741: broker-eu-0-0: Cloudlet 15 received
+
+1084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1084,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 984,37 to 1084,17:
+
+1084,17: [Host #4] utilization at 984,37 was 0,00%, now is 0,00%
+1084,17: [Host #4] energy is 0,00 W*sec
+
+1084,17: Data center's energy is 0,00 W*sec
+
+
+
+1084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1084,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1084,17 to 1084,37:
+
+1084,37: [Host #4] utilization at 1084,17 was 0,00%, now is 0,00%
+1084,37: [Host #4] energy is 0,00 W*sec
+
+1084,37: Data center's energy is 0,00 W*sec
+
+
+1084.374074074074: broker-eu-0-0: Cloudlet 17 received
+
+1184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1184,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1084,37 to 1184,17:
+
+1184,17: [Host #4] utilization at 1084,37 was 0,00%, now is 0,00%
+1184,17: [Host #4] energy is 0,00 W*sec
+
+1184,17: Data center's energy is 0,00 W*sec
+
+
+
+1184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1184,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1184,17 to 1184,37:
+
+1184,37: [Host #4] utilization at 1184,17 was 0,00%, now is 0,00%
+1184,37: [Host #4] energy is 0,00 W*sec
+
+1184,37: Data center's energy is 0,00 W*sec
+
+
+1184.374074074074: broker-eu-0-0: Cloudlet 19 received
+
+1284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1284,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1184,37 to 1284,17:
+
+1284,17: [Host #4] utilization at 1184,37 was 0,00%, now is 0,00%
+1284,17: [Host #4] energy is 0,00 W*sec
+
+1284,17: Data center's energy is 0,00 W*sec
+
+
+
+1284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1284,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1284,17 to 1284,37:
+
+1284,37: [Host #4] utilization at 1284,17 was 0,00%, now is 0,00%
+1284,37: [Host #4] energy is 0,00 W*sec
+
+1284,37: Data center's energy is 0,00 W*sec
+
+
+1284.374074074074: broker-eu-0-0: Cloudlet 21 received
+
+1384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1384,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1284,37 to 1384,17:
+
+1384,17: [Host #4] utilization at 1284,37 was 0,00%, now is 0,00%
+1384,17: [Host #4] energy is 0,00 W*sec
+
+1384,17: Data center's energy is 0,00 W*sec
+
+
+
+1384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1384,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1384,17 to 1384,37:
+
+1384,37: [Host #4] utilization at 1384,17 was 0,00%, now is 0,00%
+1384,37: [Host #4] energy is 0,00 W*sec
+
+1384,37: Data center's energy is 0,00 W*sec
+
+
+1384.374074074074: broker-eu-0-0: Cloudlet 23 received
+
+1484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1484,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1384,37 to 1484,17:
+
+1484,17: [Host #4] utilization at 1384,37 was 0,00%, now is 0,00%
+1484,17: [Host #4] energy is 0,00 W*sec
+
+1484,17: Data center's energy is 0,00 W*sec
+
+
+
+1484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1484,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1484,17 to 1484,37:
+
+1484,37: [Host #4] utilization at 1484,17 was 0,00%, now is 0,00%
+1484,37: [Host #4] energy is 0,00 W*sec
+
+1484,37: Data center's energy is 0,00 W*sec
+
+
+1484.374074074074: broker-eu-0-0: Cloudlet 25 received
+
+1584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1584,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1484,37 to 1584,17:
+
+1584,17: [Host #4] utilization at 1484,37 was 0,00%, now is 0,00%
+1584,17: [Host #4] energy is 0,00 W*sec
+
+1584,17: Data center's energy is 0,00 W*sec
+
+
+
+1584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1584,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1584,17 to 1584,37:
+
+1584,37: [Host #4] utilization at 1584,17 was 0,00%, now is 0,00%
+1584,37: [Host #4] energy is 0,00 W*sec
+
+1584,37: Data center's energy is 0,00 W*sec
+
+
+1584.374074074074: broker-eu-0-0: Cloudlet 27 received
+
+1684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1684,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1584,37 to 1684,17:
+
+1684,17: [Host #4] utilization at 1584,37 was 0,00%, now is 0,00%
+1684,17: [Host #4] energy is 0,00 W*sec
+
+1684,17: Data center's energy is 0,00 W*sec
+
+
+
+1684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1684,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1684,17 to 1684,37:
+
+1684,37: [Host #4] utilization at 1684,17 was 0,00%, now is 0,00%
+1684,37: [Host #4] energy is 0,00 W*sec
+
+1684,37: Data center's energy is 0,00 W*sec
+
+
+1684.374074074074: broker-eu-0-0: Cloudlet 29 received
+
+1784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1784,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1684,37 to 1784,17:
+
+1784,17: [Host #4] utilization at 1684,37 was 0,00%, now is 0,00%
+1784,17: [Host #4] energy is 0,00 W*sec
+
+1784,17: Data center's energy is 0,00 W*sec
+
+
+
+1784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1784,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1784,17 to 1784,37:
+
+1784,37: [Host #4] utilization at 1784,17 was 0,00%, now is 0,00%
+1784,37: [Host #4] energy is 0,00 W*sec
+
+1784,37: Data center's energy is 0,00 W*sec
+
+
+1784.374074074074: broker-eu-0-0: Cloudlet 31 received
+
+1884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1884,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1784,37 to 1884,17:
+
+1884,17: [Host #4] utilization at 1784,37 was 0,00%, now is 0,00%
+1884,17: [Host #4] energy is 0,00 W*sec
+
+1884,17: Data center's energy is 0,00 W*sec
+
+
+
+1884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1884,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1884,17 to 1884,37:
+
+1884,37: [Host #4] utilization at 1884,17 was 0,00%, now is 0,00%
+1884,37: [Host #4] energy is 0,00 W*sec
+
+1884,37: Data center's energy is 0,00 W*sec
+
+
+1884.374074074074: broker-eu-0-0: Cloudlet 33 received
+
+1984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1984,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1884,37 to 1984,17:
+
+1984,17: [Host #4] utilization at 1884,37 was 0,00%, now is 0,00%
+1984,17: [Host #4] energy is 0,00 W*sec
+
+1984,17: Data center's energy is 0,00 W*sec
+
+
+
+1984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+1984,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1984,17 to 1984,37:
+
+1984,37: [Host #4] utilization at 1984,17 was 0,00%, now is 0,00%
+1984,37: [Host #4] energy is 0,00 W*sec
+
+1984,37: Data center's energy is 0,00 W*sec
+
+
+1984.374074074074: broker-eu-0-0: Cloudlet 35 received
+
+2084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2084,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1984,37 to 2084,17:
+
+2084,17: [Host #4] utilization at 1984,37 was 0,00%, now is 0,00%
+2084,17: [Host #4] energy is 0,00 W*sec
+
+2084,17: Data center's energy is 0,00 W*sec
+
+
+
+2084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2084,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2084,17 to 2084,37:
+
+2084,37: [Host #4] utilization at 2084,17 was 0,00%, now is 0,00%
+2084,37: [Host #4] energy is 0,00 W*sec
+
+2084,37: Data center's energy is 0,00 W*sec
+
+
+2084.3740740740736: broker-eu-0-0: Cloudlet 37 received
+
+2184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2184,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2084,37 to 2184,17:
+
+2184,17: [Host #4] utilization at 2084,37 was 0,00%, now is 0,00%
+2184,17: [Host #4] energy is 0,00 W*sec
+
+2184,17: Data center's energy is 0,00 W*sec
+
+
+
+2184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2184,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2184,17 to 2184,37:
+
+2184,37: [Host #4] utilization at 2184,17 was 0,00%, now is 0,00%
+2184,37: [Host #4] energy is 0,00 W*sec
+
+2184,37: Data center's energy is 0,00 W*sec
+
+
+2184.3740740740736: broker-eu-0-0: Cloudlet 39 received
+
+2284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2284,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2184,37 to 2284,17:
+
+2284,17: [Host #4] utilization at 2184,37 was 0,00%, now is 0,00%
+2284,17: [Host #4] energy is 0,00 W*sec
+
+2284,17: Data center's energy is 0,00 W*sec
+
+
+
+2284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2284,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2284,17 to 2284,37:
+
+2284,37: [Host #4] utilization at 2284,17 was 0,00%, now is 0,00%
+2284,37: [Host #4] energy is 0,00 W*sec
+
+2284,37: Data center's energy is 0,00 W*sec
+
+
+2284.3740740740736: broker-eu-0-0: Cloudlet 41 received
+
+2384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2384,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2284,37 to 2384,17:
+
+2384,17: [Host #4] utilization at 2284,37 was 0,00%, now is 0,00%
+2384,17: [Host #4] energy is 0,00 W*sec
+
+2384,17: Data center's energy is 0,00 W*sec
+
+
+
+2384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2384,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2384,17 to 2384,37:
+
+2384,37: [Host #4] utilization at 2384,17 was 0,00%, now is 0,00%
+2384,37: [Host #4] energy is 0,00 W*sec
+
+2384,37: Data center's energy is 0,00 W*sec
+
+
+2384.3740740740736: broker-eu-0-0: Cloudlet 43 received
+
+2484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2484,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2384,37 to 2484,17:
+
+2484,17: [Host #4] utilization at 2384,37 was 0,00%, now is 0,00%
+2484,17: [Host #4] energy is 0,00 W*sec
+
+2484,17: Data center's energy is 0,00 W*sec
+
+
+
+2484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2484,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2484,17 to 2484,37:
+
+2484,37: [Host #4] utilization at 2484,17 was 0,00%, now is 0,00%
+2484,37: [Host #4] energy is 0,00 W*sec
+
+2484,37: Data center's energy is 0,00 W*sec
+
+
+2484.3740740740736: broker-eu-0-0: Cloudlet 45 received
+
+2584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2584,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2484,37 to 2584,17:
+
+2584,17: [Host #4] utilization at 2484,37 was 0,00%, now is 0,00%
+2584,17: [Host #4] energy is 0,00 W*sec
+
+2584,17: Data center's energy is 0,00 W*sec
+
+
+
+2584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2584,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2584,17 to 2584,37:
+
+2584,37: [Host #4] utilization at 2584,17 was 0,00%, now is 0,00%
+2584,37: [Host #4] energy is 0,00 W*sec
+
+2584,37: Data center's energy is 0,00 W*sec
+
+
+2584.3740740740736: broker-eu-0-0: Cloudlet 47 received
+
+2684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2684,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2584,37 to 2684,17:
+
+2684,17: [Host #4] utilization at 2584,37 was 0,00%, now is 0,00%
+2684,17: [Host #4] energy is 0,00 W*sec
+
+2684,17: Data center's energy is 0,00 W*sec
+
+
+
+2684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2684,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2684,17 to 2684,37:
+
+2684,37: [Host #4] utilization at 2684,17 was 0,00%, now is 0,00%
+2684,37: [Host #4] energy is 0,00 W*sec
+
+2684,37: Data center's energy is 0,00 W*sec
+
+
+2684.3740740740736: broker-eu-0-0: Cloudlet 49 received
+
+2784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2784,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2684,37 to 2784,17:
+
+2784,17: [Host #4] utilization at 2684,37 was 0,00%, now is 0,00%
+2784,17: [Host #4] energy is 0,00 W*sec
+
+2784,17: Data center's energy is 0,00 W*sec
+
+
+
+2784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2784,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2784,17 to 2784,37:
+
+2784,37: [Host #4] utilization at 2784,17 was 0,00%, now is 0,00%
+2784,37: [Host #4] energy is 0,00 W*sec
+
+2784,37: Data center's energy is 0,00 W*sec
+
+
+2784.3740740740736: broker-eu-0-0: Cloudlet 51 received
+
+2884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2884,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2784,37 to 2884,17:
+
+2884,17: [Host #4] utilization at 2784,37 was 0,00%, now is 0,00%
+2884,17: [Host #4] energy is 0,00 W*sec
+
+2884,17: Data center's energy is 0,00 W*sec
+
+
+
+2884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2884,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2884,17 to 2884,37:
+
+2884,37: [Host #4] utilization at 2884,17 was 0,00%, now is 0,00%
+2884,37: [Host #4] energy is 0,00 W*sec
+
+2884,37: Data center's energy is 0,00 W*sec
+
+
+2884.3740740740736: broker-eu-0-0: Cloudlet 53 received
+
+2984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2984,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2884,37 to 2984,17:
+
+2984,17: [Host #4] utilization at 2884,37 was 0,00%, now is 0,00%
+2984,17: [Host #4] energy is 0,00 W*sec
+
+2984,17: Data center's energy is 0,00 W*sec
+
+
+
+2984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+2984,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2984,17 to 2984,37:
+
+2984,37: [Host #4] utilization at 2984,17 was 0,00%, now is 0,00%
+2984,37: [Host #4] energy is 0,00 W*sec
+
+2984,37: Data center's energy is 0,00 W*sec
+
+
+2984.3740740740736: broker-eu-0-0: Cloudlet 55 received
+
+3084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3084,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2984,37 to 3084,17:
+
+3084,17: [Host #4] utilization at 2984,37 was 0,00%, now is 0,00%
+3084,17: [Host #4] energy is 0,00 W*sec
+
+3084,17: Data center's energy is 0,00 W*sec
+
+
+
+3084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3084,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3084,17 to 3084,37:
+
+3084,37: [Host #4] utilization at 3084,17 was 0,00%, now is 0,00%
+3084,37: [Host #4] energy is 0,00 W*sec
+
+3084,37: Data center's energy is 0,00 W*sec
+
+
+3084.3740740740736: broker-eu-0-0: Cloudlet 57 received
+
+3184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3184,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3084,37 to 3184,17:
+
+3184,17: [Host #4] utilization at 3084,37 was 0,00%, now is 0,00%
+3184,17: [Host #4] energy is 0,00 W*sec
+
+3184,17: Data center's energy is 0,00 W*sec
+
+
+
+3184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3184,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3184,17 to 3184,37:
+
+3184,37: [Host #4] utilization at 3184,17 was 0,00%, now is 0,00%
+3184,37: [Host #4] energy is 0,00 W*sec
+
+3184,37: Data center's energy is 0,00 W*sec
+
+
+3184.3740740740736: broker-eu-0-0: Cloudlet 59 received
+
+3284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3284,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3184,37 to 3284,17:
+
+3284,17: [Host #4] utilization at 3184,37 was 0,00%, now is 0,00%
+3284,17: [Host #4] energy is 0,00 W*sec
+
+3284,17: Data center's energy is 0,00 W*sec
+
+
+
+3284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3284,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3284,17 to 3284,37:
+
+3284,37: [Host #4] utilization at 3284,17 was 0,00%, now is 0,00%
+3284,37: [Host #4] energy is 0,00 W*sec
+
+3284,37: Data center's energy is 0,00 W*sec
+
+
+3284.3740740740736: broker-eu-0-0: Cloudlet 61 received
+
+3384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3384,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3284,37 to 3384,17:
+
+3384,17: [Host #4] utilization at 3284,37 was 0,00%, now is 0,00%
+3384,17: [Host #4] energy is 0,00 W*sec
+
+3384,17: Data center's energy is 0,00 W*sec
+
+
+
+3384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3384,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3384,17 to 3384,37:
+
+3384,37: [Host #4] utilization at 3384,17 was 0,00%, now is 0,00%
+3384,37: [Host #4] energy is 0,00 W*sec
+
+3384,37: Data center's energy is 0,00 W*sec
+
+
+3384.3740740740736: broker-eu-0-0: Cloudlet 63 received
+
+3484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3484,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3384,37 to 3484,17:
+
+3484,17: [Host #4] utilization at 3384,37 was 0,00%, now is 0,00%
+3484,17: [Host #4] energy is 0,00 W*sec
+
+3484,17: Data center's energy is 0,00 W*sec
+
+
+
+3484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3484,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3484,17 to 3484,37:
+
+3484,37: [Host #4] utilization at 3484,17 was 0,00%, now is 0,00%
+3484,37: [Host #4] energy is 0,00 W*sec
+
+3484,37: Data center's energy is 0,00 W*sec
+
+
+3484.3740740740736: broker-eu-0-0: Cloudlet 65 received
+
+3584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3584,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3484,37 to 3584,17:
+
+3584,17: [Host #4] utilization at 3484,37 was 0,00%, now is 0,00%
+3584,17: [Host #4] energy is 0,00 W*sec
+
+3584,17: Data center's energy is 0,00 W*sec
+
+
+
+3584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3584,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3584,17 to 3584,37:
+
+3584,37: [Host #4] utilization at 3584,17 was 0,00%, now is 0,00%
+3584,37: [Host #4] energy is 0,00 W*sec
+
+3584,37: Data center's energy is 0,00 W*sec
+
+
+3584.3740740740736: broker-eu-0-0: Cloudlet 67 received
+
+3684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3684,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3584,37 to 3684,17:
+
+3684,17: [Host #4] utilization at 3584,37 was 0,00%, now is 0,00%
+3684,17: [Host #4] energy is 0,00 W*sec
+
+3684,17: Data center's energy is 0,00 W*sec
+
+
+
+3684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3684,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3684,17 to 3684,37:
+
+3684,37: [Host #4] utilization at 3684,17 was 0,00%, now is 0,00%
+3684,37: [Host #4] energy is 0,00 W*sec
+
+3684,37: Data center's energy is 0,00 W*sec
+
+
+3684.3740740740736: broker-eu-0-0: Cloudlet 69 received
+
+3784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3784,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3684,37 to 3784,17:
+
+3784,17: [Host #4] utilization at 3684,37 was 0,00%, now is 0,00%
+3784,17: [Host #4] energy is 0,00 W*sec
+
+3784,17: Data center's energy is 0,00 W*sec
+
+
+
+3784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3784,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3784,17 to 3784,37:
+
+3784,37: [Host #4] utilization at 3784,17 was 0,00%, now is 0,00%
+3784,37: [Host #4] energy is 0,00 W*sec
+
+3784,37: Data center's energy is 0,00 W*sec
+
+
+3784.3740740740736: broker-eu-0-0: Cloudlet 71 received
+
+3884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3884,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3784,37 to 3884,17:
+
+3884,17: [Host #4] utilization at 3784,37 was 0,00%, now is 0,00%
+3884,17: [Host #4] energy is 0,00 W*sec
+
+3884,17: Data center's energy is 0,00 W*sec
+
+
+
+3884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3884,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3884,17 to 3884,37:
+
+3884,37: [Host #4] utilization at 3884,17 was 0,00%, now is 0,00%
+3884,37: [Host #4] energy is 0,00 W*sec
+
+3884,37: Data center's energy is 0,00 W*sec
+
+
+3884.3740740740736: broker-eu-0-0: Cloudlet 73 received
+
+3984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3984,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3884,37 to 3984,17:
+
+3984,17: [Host #4] utilization at 3884,37 was 0,00%, now is 0,00%
+3984,17: [Host #4] energy is 0,00 W*sec
+
+3984,17: Data center's energy is 0,00 W*sec
+
+
+
+3984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+3984,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3984,17 to 3984,37:
+
+3984,37: [Host #4] utilization at 3984,17 was 0,00%, now is 0,00%
+3984,37: [Host #4] energy is 0,00 W*sec
+
+3984,37: Data center's energy is 0,00 W*sec
+
+
+3984.3740740740736: broker-eu-0-0: Cloudlet 75 received
+
+4084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4084,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3984,37 to 4084,17:
+
+4084,17: [Host #4] utilization at 3984,37 was 0,00%, now is 0,00%
+4084,17: [Host #4] energy is 0,00 W*sec
+
+4084,17: Data center's energy is 0,00 W*sec
+
+
+
+4084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4084,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4084,17 to 4084,37:
+
+4084,37: [Host #4] utilization at 4084,17 was 0,00%, now is 0,00%
+4084,37: [Host #4] energy is 0,00 W*sec
+
+4084,37: Data center's energy is 0,00 W*sec
+
+
+4084.3740740740736: broker-eu-0-0: Cloudlet 77 received
+
+4184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4184,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4084,37 to 4184,17:
+
+4184,17: [Host #4] utilization at 4084,37 was 0,00%, now is 0,00%
+4184,17: [Host #4] energy is 0,00 W*sec
+
+4184,17: Data center's energy is 0,00 W*sec
+
+
+
+4184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4184,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4184,17 to 4184,37:
+
+4184,37: [Host #4] utilization at 4184,17 was 0,00%, now is 0,00%
+4184,37: [Host #4] energy is 0,00 W*sec
+
+4184,37: Data center's energy is 0,00 W*sec
+
+
+4184.374074074074: broker-eu-0-0: Cloudlet 79 received
+
+4284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4284,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4184,37 to 4284,17:
+
+4284,17: [Host #4] utilization at 4184,37 was 0,00%, now is 0,00%
+4284,17: [Host #4] energy is 0,00 W*sec
+
+4284,17: Data center's energy is 0,00 W*sec
+
+
+
+4284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4284,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4284,17 to 4284,37:
+
+4284,37: [Host #4] utilization at 4284,17 was 0,00%, now is 0,00%
+4284,37: [Host #4] energy is 0,00 W*sec
+
+4284,37: Data center's energy is 0,00 W*sec
+
+
+4284.374074074074: broker-eu-0-0: Cloudlet 81 received
+
+4384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4384,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4284,37 to 4384,17:
+
+4384,17: [Host #4] utilization at 4284,37 was 0,00%, now is 0,00%
+4384,17: [Host #4] energy is 0,00 W*sec
+
+4384,17: Data center's energy is 0,00 W*sec
+
+
+
+4384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4384,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4384,17 to 4384,37:
+
+4384,37: [Host #4] utilization at 4384,17 was 0,00%, now is 0,00%
+4384,37: [Host #4] energy is 0,00 W*sec
+
+4384,37: Data center's energy is 0,00 W*sec
+
+
+4384.374074074074: broker-eu-0-0: Cloudlet 83 received
+
+4484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4484,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4384,37 to 4484,17:
+
+4484,17: [Host #4] utilization at 4384,37 was 0,00%, now is 0,00%
+4484,17: [Host #4] energy is 0,00 W*sec
+
+4484,17: Data center's energy is 0,00 W*sec
+
+
+
+4484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4484,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4484,17 to 4484,37:
+
+4484,37: [Host #4] utilization at 4484,17 was 0,00%, now is 0,00%
+4484,37: [Host #4] energy is 0,00 W*sec
+
+4484,37: Data center's energy is 0,00 W*sec
+
+
+4484.374074074074: broker-eu-0-0: Cloudlet 85 received
+
+4584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4584,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4484,37 to 4584,17:
+
+4584,17: [Host #4] utilization at 4484,37 was 0,00%, now is 0,00%
+4584,17: [Host #4] energy is 0,00 W*sec
+
+4584,17: Data center's energy is 0,00 W*sec
+
+
+
+4584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4584,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4584,17 to 4584,37:
+
+4584,37: [Host #4] utilization at 4584,17 was 0,00%, now is 0,00%
+4584,37: [Host #4] energy is 0,00 W*sec
+
+4584,37: Data center's energy is 0,00 W*sec
+
+
+4584.374074074074: broker-eu-0-0: Cloudlet 87 received
+
+4684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4684,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4584,37 to 4684,17:
+
+4684,17: [Host #4] utilization at 4584,37 was 0,00%, now is 0,00%
+4684,17: [Host #4] energy is 0,00 W*sec
+
+4684,17: Data center's energy is 0,00 W*sec
+
+
+
+4684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4684,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4684,17 to 4684,37:
+
+4684,37: [Host #4] utilization at 4684,17 was 0,00%, now is 0,00%
+4684,37: [Host #4] energy is 0,00 W*sec
+
+4684,37: Data center's energy is 0,00 W*sec
+
+
+4684.374074074074: broker-eu-0-0: Cloudlet 89 received
+
+4784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4784,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4684,37 to 4784,17:
+
+4784,17: [Host #4] utilization at 4684,37 was 0,00%, now is 0,00%
+4784,17: [Host #4] energy is 0,00 W*sec
+
+4784,17: Data center's energy is 0,00 W*sec
+
+
+
+4784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4784,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4784,17 to 4784,37:
+
+4784,37: [Host #4] utilization at 4784,17 was 0,00%, now is 0,00%
+4784,37: [Host #4] energy is 0,00 W*sec
+
+4784,37: Data center's energy is 0,00 W*sec
+
+
+4784.374074074074: broker-eu-0-0: Cloudlet 91 received
+
+4884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4884,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4784,37 to 4884,17:
+
+4884,17: [Host #4] utilization at 4784,37 was 0,00%, now is 0,00%
+4884,17: [Host #4] energy is 0,00 W*sec
+
+4884,17: Data center's energy is 0,00 W*sec
+
+
+
+4884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4884,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4884,17 to 4884,37:
+
+4884,37: [Host #4] utilization at 4884,17 was 0,00%, now is 0,00%
+4884,37: [Host #4] energy is 0,00 W*sec
+
+4884,37: Data center's energy is 0,00 W*sec
+
+
+4884.374074074074: broker-eu-0-0: Cloudlet 93 received
+
+4984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4984,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4884,37 to 4984,17:
+
+4984,17: [Host #4] utilization at 4884,37 was 0,00%, now is 0,00%
+4984,17: [Host #4] energy is 0,00 W*sec
+
+4984,17: Data center's energy is 0,00 W*sec
+
+
+
+4984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+4984,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4984,17 to 4984,37:
+
+4984,37: [Host #4] utilization at 4984,17 was 0,00%, now is 0,00%
+4984,37: [Host #4] energy is 0,00 W*sec
+
+4984,37: Data center's energy is 0,00 W*sec
+
+
+4984.374074074074: broker-eu-0-0: Cloudlet 95 received
+
+5084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5084,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4984,37 to 5084,17:
+
+5084,17: [Host #4] utilization at 4984,37 was 0,00%, now is 0,00%
+5084,17: [Host #4] energy is 0,00 W*sec
+
+5084,17: Data center's energy is 0,00 W*sec
+
+
+
+5084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5084,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5084,17 to 5084,37:
+
+5084,37: [Host #4] utilization at 5084,17 was 0,00%, now is 0,00%
+5084,37: [Host #4] energy is 0,00 W*sec
+
+5084,37: Data center's energy is 0,00 W*sec
+
+
+5084.374074074074: broker-eu-0-0: Cloudlet 97 received
+
+5184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5184,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5084,37 to 5184,17:
+
+5184,17: [Host #4] utilization at 5084,37 was 0,00%, now is 0,00%
+5184,17: [Host #4] energy is 0,00 W*sec
+
+5184,17: Data center's energy is 0,00 W*sec
+
+
+
+5184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5184,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5184,17 to 5184,37:
+
+5184,37: [Host #4] utilization at 5184,17 was 0,00%, now is 0,00%
+5184,37: [Host #4] energy is 0,00 W*sec
+
+5184,37: Data center's energy is 0,00 W*sec
+
+
+5184.374074074074: broker-eu-0-0: Cloudlet 99 received
+
+5284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5284,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5184,37 to 5284,17:
+
+5284,17: [Host #4] utilization at 5184,37 was 0,00%, now is 0,00%
+5284,17: [Host #4] energy is 0,00 W*sec
+
+5284,17: Data center's energy is 0,00 W*sec
+
+
+
+5284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5284,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5284,17 to 5284,37:
+
+5284,37: [Host #4] utilization at 5284,17 was 0,00%, now is 0,00%
+5284,37: [Host #4] energy is 0,00 W*sec
+
+5284,37: Data center's energy is 0,00 W*sec
+
+
+5284.374074074074: broker-eu-0-0: Cloudlet 101 received
+
+5384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5384,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5284,37 to 5384,17:
+
+5384,17: [Host #4] utilization at 5284,37 was 0,00%, now is 0,00%
+5384,17: [Host #4] energy is 0,00 W*sec
+
+5384,17: Data center's energy is 0,00 W*sec
+
+
+
+5384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5384,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5384,17 to 5384,37:
+
+5384,37: [Host #4] utilization at 5384,17 was 0,00%, now is 0,00%
+5384,37: [Host #4] energy is 0,00 W*sec
+
+5384,37: Data center's energy is 0,00 W*sec
+
+
+5384.374074074074: broker-eu-0-0: Cloudlet 103 received
+
+5484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5484,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5384,37 to 5484,17:
+
+5484,17: [Host #4] utilization at 5384,37 was 0,00%, now is 0,00%
+5484,17: [Host #4] energy is 0,00 W*sec
+
+5484,17: Data center's energy is 0,00 W*sec
+
+
+
+5484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5484,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5484,17 to 5484,37:
+
+5484,37: [Host #4] utilization at 5484,17 was 0,00%, now is 0,00%
+5484,37: [Host #4] energy is 0,00 W*sec
+
+5484,37: Data center's energy is 0,00 W*sec
+
+
+5484.374074074074: broker-eu-0-0: Cloudlet 105 received
+
+5584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5584,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5484,37 to 5584,17:
+
+5584,17: [Host #4] utilization at 5484,37 was 0,00%, now is 0,00%
+5584,17: [Host #4] energy is 0,00 W*sec
+
+5584,17: Data center's energy is 0,00 W*sec
+
+
+
+5584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5584,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5584,17 to 5584,37:
+
+5584,37: [Host #4] utilization at 5584,17 was 0,00%, now is 0,00%
+5584,37: [Host #4] energy is 0,00 W*sec
+
+5584,37: Data center's energy is 0,00 W*sec
+
+
+5584.374074074074: broker-eu-0-0: Cloudlet 107 received
+
+5684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5684,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5584,37 to 5684,17:
+
+5684,17: [Host #4] utilization at 5584,37 was 0,00%, now is 0,00%
+5684,17: [Host #4] energy is 0,00 W*sec
+
+5684,17: Data center's energy is 0,00 W*sec
+
+
+
+5684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5684,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5684,17 to 5684,37:
+
+5684,37: [Host #4] utilization at 5684,17 was 0,00%, now is 0,00%
+5684,37: [Host #4] energy is 0,00 W*sec
+
+5684,37: Data center's energy is 0,00 W*sec
+
+
+5684.374074074074: broker-eu-0-0: Cloudlet 109 received
+
+5784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5784,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5684,37 to 5784,17:
+
+5784,17: [Host #4] utilization at 5684,37 was 0,00%, now is 0,00%
+5784,17: [Host #4] energy is 0,00 W*sec
+
+5784,17: Data center's energy is 0,00 W*sec
+
+
+
+5784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5784,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5784,17 to 5784,37:
+
+5784,37: [Host #4] utilization at 5784,17 was 0,00%, now is 0,00%
+5784,37: [Host #4] energy is 0,00 W*sec
+
+5784,37: Data center's energy is 0,00 W*sec
+
+
+5784.374074074074: broker-eu-0-0: Cloudlet 111 received
+
+5884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5884,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5784,37 to 5884,17:
+
+5884,17: [Host #4] utilization at 5784,37 was 0,00%, now is 0,00%
+5884,17: [Host #4] energy is 0,00 W*sec
+
+5884,17: Data center's energy is 0,00 W*sec
+
+
+
+5884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5884,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5884,17 to 5884,37:
+
+5884,37: [Host #4] utilization at 5884,17 was 0,00%, now is 0,00%
+5884,37: [Host #4] energy is 0,00 W*sec
+
+5884,37: Data center's energy is 0,00 W*sec
+
+
+5884.374074074074: broker-eu-0-0: Cloudlet 113 received
+
+5984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5984,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5884,37 to 5984,17:
+
+5984,17: [Host #4] utilization at 5884,37 was 0,00%, now is 0,00%
+5984,17: [Host #4] energy is 0,00 W*sec
+
+5984,17: Data center's energy is 0,00 W*sec
+
+
+
+5984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+5984,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5984,17 to 5984,37:
+
+5984,37: [Host #4] utilization at 5984,17 was 0,00%, now is 0,00%
+5984,37: [Host #4] energy is 0,00 W*sec
+
+5984,37: Data center's energy is 0,00 W*sec
+
+
+5984.374074074074: broker-eu-0-0: Cloudlet 115 received
+
+6084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6084,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5984,37 to 6084,17:
+
+6084,17: [Host #4] utilization at 5984,37 was 0,00%, now is 0,00%
+6084,17: [Host #4] energy is 0,00 W*sec
+
+6084,17: Data center's energy is 0,00 W*sec
+
+
+
+6084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6084,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6084,17 to 6084,37:
+
+6084,37: [Host #4] utilization at 6084,17 was 0,00%, now is 0,00%
+6084,37: [Host #4] energy is 0,00 W*sec
+
+6084,37: Data center's energy is 0,00 W*sec
+
+
+6084.374074074074: broker-eu-0-0: Cloudlet 117 received
+
+6184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6184,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6084,37 to 6184,17:
+
+6184,17: [Host #4] utilization at 6084,37 was 0,00%, now is 0,00%
+6184,17: [Host #4] energy is 0,00 W*sec
+
+6184,17: Data center's energy is 0,00 W*sec
+
+
+
+6184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6184,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6184,17 to 6184,37:
+
+6184,37: [Host #4] utilization at 6184,17 was 0,00%, now is 0,00%
+6184,37: [Host #4] energy is 0,00 W*sec
+
+6184,37: Data center's energy is 0,00 W*sec
+
+
+6184.374074074074: broker-eu-0-0: Cloudlet 119 received
+
+6284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6284,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6184,37 to 6284,17:
+
+6284,17: [Host #4] utilization at 6184,37 was 0,00%, now is 0,00%
+6284,17: [Host #4] energy is 0,00 W*sec
+
+6284,17: Data center's energy is 0,00 W*sec
+
+
+
+6284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6284,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6284,17 to 6284,37:
+
+6284,37: [Host #4] utilization at 6284,17 was 0,00%, now is 0,00%
+6284,37: [Host #4] energy is 0,00 W*sec
+
+6284,37: Data center's energy is 0,00 W*sec
+
+
+6284.374074074074: broker-eu-0-0: Cloudlet 121 received
+
+6384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6384,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6284,37 to 6384,17:
+
+6384,17: [Host #4] utilization at 6284,37 was 0,00%, now is 0,00%
+6384,17: [Host #4] energy is 0,00 W*sec
+
+6384,17: Data center's energy is 0,00 W*sec
+
+
+
+6384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6384,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6384,17 to 6384,37:
+
+6384,37: [Host #4] utilization at 6384,17 was 0,00%, now is 0,00%
+6384,37: [Host #4] energy is 0,00 W*sec
+
+6384,37: Data center's energy is 0,00 W*sec
+
+
+6384.374074074074: broker-eu-0-0: Cloudlet 123 received
+
+6484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6484,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6384,37 to 6484,17:
+
+6484,17: [Host #4] utilization at 6384,37 was 0,00%, now is 0,00%
+6484,17: [Host #4] energy is 0,00 W*sec
+
+6484,17: Data center's energy is 0,00 W*sec
+
+
+
+6484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6484,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6484,17 to 6484,37:
+
+6484,37: [Host #4] utilization at 6484,17 was 0,00%, now is 0,00%
+6484,37: [Host #4] energy is 0,00 W*sec
+
+6484,37: Data center's energy is 0,00 W*sec
+
+
+6484.374074074074: broker-eu-0-0: Cloudlet 125 received
+
+6584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6584,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6484,37 to 6584,17:
+
+6584,17: [Host #4] utilization at 6484,37 was 0,00%, now is 0,00%
+6584,17: [Host #4] energy is 0,00 W*sec
+
+6584,17: Data center's energy is 0,00 W*sec
+
+
+
+6584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6584,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6584,17 to 6584,37:
+
+6584,37: [Host #4] utilization at 6584,17 was 0,00%, now is 0,00%
+6584,37: [Host #4] energy is 0,00 W*sec
+
+6584,37: Data center's energy is 0,00 W*sec
+
+
+6584.374074074074: broker-eu-0-0: Cloudlet 127 received
+
+6684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6684,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6584,37 to 6684,17:
+
+6684,17: [Host #4] utilization at 6584,37 was 0,00%, now is 0,00%
+6684,17: [Host #4] energy is 0,00 W*sec
+
+6684,17: Data center's energy is 0,00 W*sec
+
+
+
+6684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6684,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6684,17 to 6684,37:
+
+6684,37: [Host #4] utilization at 6684,17 was 0,00%, now is 0,00%
+6684,37: [Host #4] energy is 0,00 W*sec
+
+6684,37: Data center's energy is 0,00 W*sec
+
+
+6684.374074074074: broker-eu-0-0: Cloudlet 129 received
+
+6784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6784,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6684,37 to 6784,17:
+
+6784,17: [Host #4] utilization at 6684,37 was 0,00%, now is 0,00%
+6784,17: [Host #4] energy is 0,00 W*sec
+
+6784,17: Data center's energy is 0,00 W*sec
+
+
+
+6784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6784,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6784,17 to 6784,37:
+
+6784,37: [Host #4] utilization at 6784,17 was 0,00%, now is 0,00%
+6784,37: [Host #4] energy is 0,00 W*sec
+
+6784,37: Data center's energy is 0,00 W*sec
+
+
+6784.374074074074: broker-eu-0-0: Cloudlet 131 received
+
+6884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6884,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6784,37 to 6884,17:
+
+6884,17: [Host #4] utilization at 6784,37 was 0,00%, now is 0,00%
+6884,17: [Host #4] energy is 0,00 W*sec
+
+6884,17: Data center's energy is 0,00 W*sec
+
+
+
+6884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6884,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6884,17 to 6884,37:
+
+6884,37: [Host #4] utilization at 6884,17 was 0,00%, now is 0,00%
+6884,37: [Host #4] energy is 0,00 W*sec
+
+6884,37: Data center's energy is 0,00 W*sec
+
+
+6884.374074074074: broker-eu-0-0: Cloudlet 133 received
+
+6984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6984,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6884,37 to 6984,17:
+
+6984,17: [Host #4] utilization at 6884,37 was 0,00%, now is 0,00%
+6984,17: [Host #4] energy is 0,00 W*sec
+
+6984,17: Data center's energy is 0,00 W*sec
+
+
+
+6984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+6984,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6984,17 to 6984,37:
+
+6984,37: [Host #4] utilization at 6984,17 was 0,00%, now is 0,00%
+6984,37: [Host #4] energy is 0,00 W*sec
+
+6984,37: Data center's energy is 0,00 W*sec
+
+
+6984.374074074074: broker-eu-0-0: Cloudlet 135 received
+
+7084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7084,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6984,37 to 7084,17:
+
+7084,17: [Host #4] utilization at 6984,37 was 0,00%, now is 0,00%
+7084,17: [Host #4] energy is 0,00 W*sec
+
+7084,17: Data center's energy is 0,00 W*sec
+
+
+
+7084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7084,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7084,17 to 7084,37:
+
+7084,37: [Host #4] utilization at 7084,17 was 0,00%, now is 0,00%
+7084,37: [Host #4] energy is 0,00 W*sec
+
+7084,37: Data center's energy is 0,00 W*sec
+
+
+7084.374074074074: broker-eu-0-0: Cloudlet 137 received
+
+7184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7184,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7084,37 to 7184,17:
+
+7184,17: [Host #4] utilization at 7084,37 was 0,00%, now is 0,00%
+7184,17: [Host #4] energy is 0,00 W*sec
+
+7184,17: Data center's energy is 0,00 W*sec
+
+
+
+7184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7184,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7184,17 to 7184,37:
+
+7184,37: [Host #4] utilization at 7184,17 was 0,00%, now is 0,00%
+7184,37: [Host #4] energy is 0,00 W*sec
+
+7184,37: Data center's energy is 0,00 W*sec
+
+
+7184.374074074074: broker-eu-0-0: Cloudlet 139 received
+
+7284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7284,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7184,37 to 7284,17:
+
+7284,17: [Host #4] utilization at 7184,37 was 0,00%, now is 0,00%
+7284,17: [Host #4] energy is 0,00 W*sec
+
+7284,17: Data center's energy is 0,00 W*sec
+
+
+
+7284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7284,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7284,17 to 7284,37:
+
+7284,37: [Host #4] utilization at 7284,17 was 0,00%, now is 0,00%
+7284,37: [Host #4] energy is 0,00 W*sec
+
+7284,37: Data center's energy is 0,00 W*sec
+
+
+7284.374074074074: broker-eu-0-0: Cloudlet 141 received
+
+7384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7384,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7284,37 to 7384,17:
+
+7384,17: [Host #4] utilization at 7284,37 was 0,00%, now is 0,00%
+7384,17: [Host #4] energy is 0,00 W*sec
+
+7384,17: Data center's energy is 0,00 W*sec
+
+
+
+7384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7384,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7384,17 to 7384,37:
+
+7384,37: [Host #4] utilization at 7384,17 was 0,00%, now is 0,00%
+7384,37: [Host #4] energy is 0,00 W*sec
+
+7384,37: Data center's energy is 0,00 W*sec
+
+
+7384.374074074074: broker-eu-0-0: Cloudlet 143 received
+
+7484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7484,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7384,37 to 7484,17:
+
+7484,17: [Host #4] utilization at 7384,37 was 0,00%, now is 0,00%
+7484,17: [Host #4] energy is 0,00 W*sec
+
+7484,17: Data center's energy is 0,00 W*sec
+
+
+
+7484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7484,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7484,17 to 7484,37:
+
+7484,37: [Host #4] utilization at 7484,17 was 0,00%, now is 0,00%
+7484,37: [Host #4] energy is 0,00 W*sec
+
+7484,37: Data center's energy is 0,00 W*sec
+
+
+7484.374074074074: broker-eu-0-0: Cloudlet 145 received
+
+7584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7584,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7484,37 to 7584,17:
+
+7584,17: [Host #4] utilization at 7484,37 was 0,00%, now is 0,00%
+7584,17: [Host #4] energy is 0,00 W*sec
+
+7584,17: Data center's energy is 0,00 W*sec
+
+
+
+7584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7584,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7584,17 to 7584,37:
+
+7584,37: [Host #4] utilization at 7584,17 was 0,00%, now is 0,00%
+7584,37: [Host #4] energy is 0,00 W*sec
+
+7584,37: Data center's energy is 0,00 W*sec
+
+
+7584.374074074074: broker-eu-0-0: Cloudlet 147 received
+
+7684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7684,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7584,37 to 7684,17:
+
+7684,17: [Host #4] utilization at 7584,37 was 0,00%, now is 0,00%
+7684,17: [Host #4] energy is 0,00 W*sec
+
+7684,17: Data center's energy is 0,00 W*sec
+
+
+
+7684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7684,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7684,17 to 7684,37:
+
+7684,37: [Host #4] utilization at 7684,17 was 0,00%, now is 0,00%
+7684,37: [Host #4] energy is 0,00 W*sec
+
+7684,37: Data center's energy is 0,00 W*sec
+
+
+7684.374074074074: broker-eu-0-0: Cloudlet 149 received
+
+7784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7784,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7684,37 to 7784,17:
+
+7784,17: [Host #4] utilization at 7684,37 was 0,00%, now is 0,00%
+7784,17: [Host #4] energy is 0,00 W*sec
+
+7784,17: Data center's energy is 0,00 W*sec
+
+
+
+7784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7784,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7784,17 to 7784,37:
+
+7784,37: [Host #4] utilization at 7784,17 was 0,00%, now is 0,00%
+7784,37: [Host #4] energy is 0,00 W*sec
+
+7784,37: Data center's energy is 0,00 W*sec
+
+
+7784.374074074074: broker-eu-0-0: Cloudlet 151 received
+
+7884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7884,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7784,37 to 7884,17:
+
+7884,17: [Host #4] utilization at 7784,37 was 0,00%, now is 0,00%
+7884,17: [Host #4] energy is 0,00 W*sec
+
+7884,17: Data center's energy is 0,00 W*sec
+
+
+
+7884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7884,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7884,17 to 7884,37:
+
+7884,37: [Host #4] utilization at 7884,17 was 0,00%, now is 0,00%
+7884,37: [Host #4] energy is 0,00 W*sec
+
+7884,37: Data center's energy is 0,00 W*sec
+
+
+7884.374074074074: broker-eu-0-0: Cloudlet 153 received
+
+7984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7984,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7884,37 to 7984,17:
+
+7984,17: [Host #4] utilization at 7884,37 was 0,00%, now is 0,00%
+7984,17: [Host #4] energy is 0,00 W*sec
+
+7984,17: Data center's energy is 0,00 W*sec
+
+
+
+7984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+7984,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7984,17 to 7984,37:
+
+7984,37: [Host #4] utilization at 7984,17 was 0,00%, now is 0,00%
+7984,37: [Host #4] energy is 0,00 W*sec
+
+7984,37: Data center's energy is 0,00 W*sec
+
+
+7984.374074074074: broker-eu-0-0: Cloudlet 155 received
+
+8084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8084,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7984,37 to 8084,17:
+
+8084,17: [Host #4] utilization at 7984,37 was 0,00%, now is 0,00%
+8084,17: [Host #4] energy is 0,00 W*sec
+
+8084,17: Data center's energy is 0,00 W*sec
+
+
+
+8084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8084,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8084,17 to 8084,37:
+
+8084,37: [Host #4] utilization at 8084,17 was 0,00%, now is 0,00%
+8084,37: [Host #4] energy is 0,00 W*sec
+
+8084,37: Data center's energy is 0,00 W*sec
+
+
+8084.374074074074: broker-eu-0-0: Cloudlet 157 received
+
+8184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8184,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8084,37 to 8184,17:
+
+8184,17: [Host #4] utilization at 8084,37 was 0,00%, now is 0,00%
+8184,17: [Host #4] energy is 0,00 W*sec
+
+8184,17: Data center's energy is 0,00 W*sec
+
+
+
+8184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8184,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8184,17 to 8184,37:
+
+8184,37: [Host #4] utilization at 8184,17 was 0,00%, now is 0,00%
+8184,37: [Host #4] energy is 0,00 W*sec
+
+8184,37: Data center's energy is 0,00 W*sec
+
+
+8184.374074074074: broker-eu-0-0: Cloudlet 159 received
+
+8284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8284,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8184,37 to 8284,17:
+
+8284,17: [Host #4] utilization at 8184,37 was 0,00%, now is 0,00%
+8284,17: [Host #4] energy is 0,00 W*sec
+
+8284,17: Data center's energy is 0,00 W*sec
+
+
+
+8284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8284,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8284,17 to 8284,37:
+
+8284,37: [Host #4] utilization at 8284,17 was 0,00%, now is 0,00%
+8284,37: [Host #4] energy is 0,00 W*sec
+
+8284,37: Data center's energy is 0,00 W*sec
+
+
+8284.374074074076: broker-eu-0-0: Cloudlet 161 received
+
+8384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8384,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8284,37 to 8384,17:
+
+8384,17: [Host #4] utilization at 8284,37 was 0,00%, now is 0,00%
+8384,17: [Host #4] energy is 0,00 W*sec
+
+8384,17: Data center's energy is 0,00 W*sec
+
+
+
+8384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8384,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8384,17 to 8384,37:
+
+8384,37: [Host #4] utilization at 8384,17 was 0,00%, now is 0,00%
+8384,37: [Host #4] energy is 0,00 W*sec
+
+8384,37: Data center's energy is 0,00 W*sec
+
+
+8384.374074074076: broker-eu-0-0: Cloudlet 163 received
+
+8484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8484,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8384,37 to 8484,17:
+
+8484,17: [Host #4] utilization at 8384,37 was 0,00%, now is 0,00%
+8484,17: [Host #4] energy is 0,00 W*sec
+
+8484,17: Data center's energy is 0,00 W*sec
+
+
+
+8484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8484,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8484,17 to 8484,37:
+
+8484,37: [Host #4] utilization at 8484,17 was 0,00%, now is 0,00%
+8484,37: [Host #4] energy is 0,00 W*sec
+
+8484,37: Data center's energy is 0,00 W*sec
+
+
+8484.374074074076: broker-eu-0-0: Cloudlet 165 received
+
+8584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8584,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8484,37 to 8584,17:
+
+8584,17: [Host #4] utilization at 8484,37 was 0,00%, now is 0,00%
+8584,17: [Host #4] energy is 0,00 W*sec
+
+8584,17: Data center's energy is 0,00 W*sec
+
+
+
+8584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8584,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8584,17 to 8584,37:
+
+8584,37: [Host #4] utilization at 8584,17 was 0,00%, now is 0,00%
+8584,37: [Host #4] energy is 0,00 W*sec
+
+8584,37: Data center's energy is 0,00 W*sec
+
+
+8584.374074074076: broker-eu-0-0: Cloudlet 167 received
+
+8684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8684,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8584,37 to 8684,17:
+
+8684,17: [Host #4] utilization at 8584,37 was 0,00%, now is 0,00%
+8684,17: [Host #4] energy is 0,00 W*sec
+
+8684,17: Data center's energy is 0,00 W*sec
+
+
+
+8684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8684,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8684,17 to 8684,37:
+
+8684,37: [Host #4] utilization at 8684,17 was 0,00%, now is 0,00%
+8684,37: [Host #4] energy is 0,00 W*sec
+
+8684,37: Data center's energy is 0,00 W*sec
+
+
+8684.374074074076: broker-eu-0-0: Cloudlet 169 received
+
+8784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8784,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8684,37 to 8784,17:
+
+8784,17: [Host #4] utilization at 8684,37 was 0,00%, now is 0,00%
+8784,17: [Host #4] energy is 0,00 W*sec
+
+8784,17: Data center's energy is 0,00 W*sec
+
+
+
+8784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8784,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8784,17 to 8784,37:
+
+8784,37: [Host #4] utilization at 8784,17 was 0,00%, now is 0,00%
+8784,37: [Host #4] energy is 0,00 W*sec
+
+8784,37: Data center's energy is 0,00 W*sec
+
+
+8784.374074074076: broker-eu-0-0: Cloudlet 171 received
+
+8884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8884,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8784,37 to 8884,17:
+
+8884,17: [Host #4] utilization at 8784,37 was 0,00%, now is 0,00%
+8884,17: [Host #4] energy is 0,00 W*sec
+
+8884,17: Data center's energy is 0,00 W*sec
+
+
+
+8884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8884,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8884,17 to 8884,37:
+
+8884,37: [Host #4] utilization at 8884,17 was 0,00%, now is 0,00%
+8884,37: [Host #4] energy is 0,00 W*sec
+
+8884,37: Data center's energy is 0,00 W*sec
+
+
+8884.374074074076: broker-eu-0-0: Cloudlet 173 received
+
+8984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8984,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8884,37 to 8984,17:
+
+8984,17: [Host #4] utilization at 8884,37 was 0,00%, now is 0,00%
+8984,17: [Host #4] energy is 0,00 W*sec
+
+8984,17: Data center's energy is 0,00 W*sec
+
+
+
+8984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+8984,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8984,17 to 8984,37:
+
+8984,37: [Host #4] utilization at 8984,17 was 0,00%, now is 0,00%
+8984,37: [Host #4] energy is 0,00 W*sec
+
+8984,37: Data center's energy is 0,00 W*sec
+
+
+8984.374074074076: broker-eu-0-0: Cloudlet 175 received
+
+9084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9084,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9084,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9084,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8984,37 to 9084,17:
+
+9084,17: [Host #4] utilization at 8984,37 was 0,00%, now is 0,00%
+9084,17: [Host #4] energy is 0,00 W*sec
+
+9084,17: Data center's energy is 0,00 W*sec
+
+
+
+9084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9084,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9084,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9084,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9084,17 to 9084,37:
+
+9084,37: [Host #4] utilization at 9084,17 was 0,00%, now is 0,00%
+9084,37: [Host #4] energy is 0,00 W*sec
+
+9084,37: Data center's energy is 0,00 W*sec
+
+
+9084.374074074076: broker-eu-0-0: Cloudlet 177 received
+
+9184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9184,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9184,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9184,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9084,37 to 9184,17:
+
+9184,17: [Host #4] utilization at 9084,37 was 0,00%, now is 0,00%
+9184,17: [Host #4] energy is 0,00 W*sec
+
+9184,17: Data center's energy is 0,00 W*sec
+
+
+
+9184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9184,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9184,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9184,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9184,17 to 9184,37:
+
+9184,37: [Host #4] utilization at 9184,17 was 0,00%, now is 0,00%
+9184,37: [Host #4] energy is 0,00 W*sec
+
+9184,37: Data center's energy is 0,00 W*sec
+
+
+9184.374074074076: broker-eu-0-0: Cloudlet 179 received
+
+9284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9284,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9284,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9284,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9184,37 to 9284,17:
+
+9284,17: [Host #4] utilization at 9184,37 was 0,00%, now is 0,00%
+9284,17: [Host #4] energy is 0,00 W*sec
+
+9284,17: Data center's energy is 0,00 W*sec
+
+
+
+9284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9284,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9284,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9284,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9284,17 to 9284,37:
+
+9284,37: [Host #4] utilization at 9284,17 was 0,00%, now is 0,00%
+9284,37: [Host #4] energy is 0,00 W*sec
+
+9284,37: Data center's energy is 0,00 W*sec
+
+
+9284.374074074076: broker-eu-0-0: Cloudlet 181 received
+
+9384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9384,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9384,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9384,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9284,37 to 9384,17:
+
+9384,17: [Host #4] utilization at 9284,37 was 0,00%, now is 0,00%
+9384,17: [Host #4] energy is 0,00 W*sec
+
+9384,17: Data center's energy is 0,00 W*sec
+
+
+
+9384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9384,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9384,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9384,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9384,17 to 9384,37:
+
+9384,37: [Host #4] utilization at 9384,17 was 0,00%, now is 0,00%
+9384,37: [Host #4] energy is 0,00 W*sec
+
+9384,37: Data center's energy is 0,00 W*sec
+
+
+9384.374074074076: broker-eu-0-0: Cloudlet 183 received
+
+9484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9484,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9484,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9484,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9384,37 to 9484,17:
+
+9484,17: [Host #4] utilization at 9384,37 was 0,00%, now is 0,00%
+9484,17: [Host #4] energy is 0,00 W*sec
+
+9484,17: Data center's energy is 0,00 W*sec
+
+
+
+9484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9484,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9484,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9484,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9484,17 to 9484,37:
+
+9484,37: [Host #4] utilization at 9484,17 was 0,00%, now is 0,00%
+9484,37: [Host #4] energy is 0,00 W*sec
+
+9484,37: Data center's energy is 0,00 W*sec
+
+
+9484.374074074076: broker-eu-0-0: Cloudlet 185 received
+
+9584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9584,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9584,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9584,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9484,37 to 9584,17:
+
+9584,17: [Host #4] utilization at 9484,37 was 0,00%, now is 0,00%
+9584,17: [Host #4] energy is 0,00 W*sec
+
+9584,17: Data center's energy is 0,00 W*sec
+
+
+
+9584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9584,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9584,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9584,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9584,17 to 9584,37:
+
+9584,37: [Host #4] utilization at 9584,17 was 0,00%, now is 0,00%
+9584,37: [Host #4] energy is 0,00 W*sec
+
+9584,37: Data center's energy is 0,00 W*sec
+
+
+9584.374074074076: broker-eu-0-0: Cloudlet 187 received
+
+9684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9684,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9684,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9684,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9584,37 to 9684,17:
+
+9684,17: [Host #4] utilization at 9584,37 was 0,00%, now is 0,00%
+9684,17: [Host #4] energy is 0,00 W*sec
+
+9684,17: Data center's energy is 0,00 W*sec
+
+
+
+9684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9684,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9684,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9684,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9684,17 to 9684,37:
+
+9684,37: [Host #4] utilization at 9684,17 was 0,00%, now is 0,00%
+9684,37: [Host #4] energy is 0,00 W*sec
+
+9684,37: Data center's energy is 0,00 W*sec
+
+
+9684.374074074076: broker-eu-0-0: Cloudlet 189 received
+
+9784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9784,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9784,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9784,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9684,37 to 9784,17:
+
+9784,17: [Host #4] utilization at 9684,37 was 0,00%, now is 0,00%
+9784,17: [Host #4] energy is 0,00 W*sec
+
+9784,17: Data center's energy is 0,00 W*sec
+
+
+
+9784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9784,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9784,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9784,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9784,17 to 9784,37:
+
+9784,37: [Host #4] utilization at 9784,17 was 0,00%, now is 0,00%
+9784,37: [Host #4] energy is 0,00 W*sec
+
+9784,37: Data center's energy is 0,00 W*sec
+
+
+9784.374074074076: broker-eu-0-0: Cloudlet 191 received
+
+9884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9884,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9884,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9884,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9784,37 to 9884,17:
+
+9884,17: [Host #4] utilization at 9784,37 was 0,00%, now is 0,00%
+9884,17: [Host #4] energy is 0,00 W*sec
+
+9884,17: Data center's energy is 0,00 W*sec
+
+
+
+9884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9884,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9884,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9884,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9884,17 to 9884,37:
+
+9884,37: [Host #4] utilization at 9884,17 was 0,00%, now is 0,00%
+9884,37: [Host #4] energy is 0,00 W*sec
+
+9884,37: Data center's energy is 0,00 W*sec
+
+
+9884.374074074076: broker-eu-0-0: Cloudlet 193 received
+
+9984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9984,17: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9984,17: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9984,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9884,37 to 9984,17:
+
+9984,17: [Host #4] utilization at 9884,37 was 0,00%, now is 0,00%
+9984,17: [Host #4] energy is 0,00 W*sec
+
+9984,17: Data center's energy is 0,00 W*sec
+
+
+
+9984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9984,37: [Host #4] Total allocated MIPS for VM #5 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9984,37: [Host #4] MIPS for VM #5 by PEs (1 * 1000.0).
+9984,37: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9984,17 to 9984,37:
+
+9984,37: [Host #4] utilization at 9984,17 was 0,00%, now is 0,00%
+9984,37: [Host #4] energy is 0,00 W*sec
+
+9984,37: Data center's energy is 0,00 W*sec
+
+
+9984.374074074076: broker-eu-0-0: Cloudlet 195 received
+Simulation completed.

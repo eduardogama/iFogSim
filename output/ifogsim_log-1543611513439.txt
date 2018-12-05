@@ -1,0 +1,63 @@
+Starting Video Streame Service...
+Initialising...
+[VmScheduler.vmCreate] Allocation of VM #10 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #10 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #10 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #10 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #10 to Host #8 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #12 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #12 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #12 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #12 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #8 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #12 to Host #8 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #14 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #14 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #14 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #14 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #8 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #14 to Host #8 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #16 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #16 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #16 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #16 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #8 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #16 to Host #8 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #18 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #18 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #18 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #18 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #8 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #18 to Host #8 failed by RAM
+Starting CloudSim version 3.0
+cloud is starting...
+ap-0 is starting...
+gw-0 is starting...
+eu-0 is starting...
+eu-1 is starting...
+eu-2 is starting...
+eu-3 is starting...
+eu-4 is starting...
+Entities started.
+[VmScheduler.vmCreate] Allocation of VM #23 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #23 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #23 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #23 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #23 to Host #8 failed by RAM
+Simulation completed.

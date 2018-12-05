@@ -68,7 +68,19 @@ public class ParseCmdLine {
     private Integer seedshift = 0;
     
     @Option(name = "-appNum", usage = "app number")
-    private Integer appNum = 0;
+    private Integer appNum = 0;    
+    
+    @Option(name = "-cloudNum", usage = "cloud number")
+    private Integer cloudNum = 0;    
+    
+    @Option(name = "-apNum", usage = "ap number")
+    private Integer apNum = 0;    
+    
+    @Option(name = "-gwNum", usage = "gw number")
+    private Integer gwNum = 0;    
+    
+    @Option(name = "-euNum", usage = "eu number")
+    private Integer euNum = 0;
 
     public String getGopdelayoutput() {
         return gopdelayoutput;
@@ -173,6 +185,40 @@ public class ParseCmdLine {
     public void setAppNum(Integer appNum) {
         this.appNum = appNum;
     }
+
+    public Integer getCloudNum() {
+        return cloudNum;
+    }
+
+    public void setCloudNum(Integer cloudNum) {
+        this.cloudNum = cloudNum;
+    }
+
+    public Integer getApNum() {
+        return apNum;
+    }
+
+    public void setApNum(Integer apNum) {
+        this.apNum = apNum;
+    }
+
+    public Integer getGwNum() {
+        return gwNum;
+    }
+
+    public void setGwNum(Integer gwNum) {
+        this.gwNum = gwNum;
+    }
+
+    public Integer getEuNum() {
+        return euNum;
+    }
+
+    public void setEuNum(Integer euNum) {
+        this.euNum = euNum;
+    }
+    
+    
 
     /**
      * If you want to get the args-Array from the command line use the signature

@@ -24,6 +24,7 @@ public class Application {
     protected String appId;
     protected int userId;
     private GeoCoverage geoCoverage;
+    private String placementStrategy; //add by myiFogSim -> like Position3.java
 
     /**
      * List of application modules in the application
@@ -391,6 +392,28 @@ public class Application {
                 mips, ram, bw, size, vmm, new TupleScheduler(mips, 1), new HashMap<Pair<String, String>, SelectivityModel>());
 
         getModules().add(module);
+    }
+    
+    public void addMovieRequest(String moviename){
+        String vmm= "Xen";
+        
+        
+    }
+
+    public String getPlacementStrategy() {
+        return placementStrategy;
+    }
+
+    public void setPlacementStrategy(String placementStrategy) {
+        this.placementStrategy = placementStrategy;
+    }
+
+    @Override
+    public String toString() {
+        return "Application [appId=" + appId + ", userId=" + userId
+                + ", geoCoverage=" + geoCoverage + ", placementStrategy="
+                + placementStrategy + ", modules=" + modules + ", edges="
+                + edges + ", loops=" + loops + ", edgeMap=" + edgeMap + "]";
     }
 
 }

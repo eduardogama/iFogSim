@@ -1,0 +1,2 @@
+public AppModule( int id, String name, String appId, int userId, double mips, int ram, long bw, long size, String vmm, CloudletScheduler cloudletScheduler, Map<Pair<String, String>, SelectivityModel> selectivityMap);
+

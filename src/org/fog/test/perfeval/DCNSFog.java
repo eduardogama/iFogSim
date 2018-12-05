@@ -56,7 +56,7 @@ public class DCNSFog {
         Log.printLine("Starting DCNS...");
 
         try {
-            Log.disable();
+            Log.enable();
             int num_user = 1; // number of cloud users
             Calendar calendar = Calendar.getInstance();
             boolean trace_flag = false; // mean trace events
@@ -83,7 +83,7 @@ public class DCNSFog {
                 }
             }
             moduleMapping.addModuleToDevice("user_interface", "cloud"); // fixing instances of User Interface module in the Cloud
-            if (CLOUD) {
+            if (false) {
                 // if the mode of deployment is cloud-based
                 moduleMapping.addModuleToDevice("object_detector", "cloud"); // placing all instances of Object Detector module in the Cloud
                 moduleMapping.addModuleToDevice("object_tracker", "cloud"); // placing all instances of Object Tracker module in the Cloud
@@ -92,7 +92,7 @@ public class DCNSFog {
             controller = new Controller("master-controller", fogDevices, sensors, actuators);
 
             controller.submitApplication(application,
-                    (CLOUD) ? (new ModulePlacementMapping(fogDevices, application, moduleMapping))
+                    (false) ? (new ModulePlacementMapping(fogDevices, application, moduleMapping))
                             : (new ModulePlacementEdgewards(fogDevices, sensors, actuators, application, moduleMapping)));
 
             TimeKeeper.getInstance().setSimulationStartTime(Calendar.getInstance().getTimeInMillis());

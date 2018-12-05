@@ -98,6 +98,7 @@ public class FogDevice extends PowerDatacenter {
     protected double xCoordinate;
     protected double yCoordinate;
     private int mips;
+    private Vm localVm;
 
     public FogDevice(
             String name,
@@ -1057,4 +1058,13 @@ public class FogDevice extends PowerDatacenter {
     public void setMips(int mips) {
         this.mips = mips;
     }
+
+    public Vm getLocalVm() {
+        return localVm;
+    }
+
+    public void setVmMovies(Vm localVm) {
+        this.localVm = localVm;
+    }
+
 }

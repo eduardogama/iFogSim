@@ -35,9 +35,7 @@ public class PrintOutputFile {
 
             FileWriter fw = new FileWriter(file.getAbsoluteFile(), true);
 
-            String text = System.lineSeparator() + msg.replace("\n", System.lineSeparator());
-
-            fw.write(text);
+            fw.write(msg);
             fw.close();
         } catch (IOException io) {
             io.printStackTrace();

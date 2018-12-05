@@ -217,11 +217,11 @@ public class VideoFogBroker extends FogBroker {
      */
     public void submitCloudletList(List<? extends Cloudlet> cloudletBatchQueue, List<? extends Cloudlet> cloudletNewArrivalQueue) {
         //Before submit new cloudlet list, delete those who have already been submitted. 
-        // List<? extends Cloudlet> cloudletNewArrivalQueue_temp = Collections.synchronizedList(new ArrayList<Cloudlet>());
+        //List<? extends Cloudlet> cloudletNewArrivalQueue_temp = Collections.synchronizedList(new ArrayList<Cloudlet>());
         List<Cloudlet> cloudletBatchQueue_temp = Collections.synchronizedList(new ArrayList<Cloudlet>());
         List<Cloudlet> cloudletNewQueue_temp = Collections.synchronizedList(new ArrayList<Cloudlet>());
 
-        // cloudletNewArrivalQueue_temp = cloudletNewArrivalQueue;
+        //cloudletNewArrivalQueue_temp = cloudletNewArrivalQueue;
         cloudletBatchQueue_temp.addAll(cloudletBatchQueue);
         cloudletNewQueue_temp.addAll(cloudletNewArrivalQueue);
 
@@ -251,13 +251,11 @@ public class VideoFogBroker extends FogBroker {
 
         for (int i = 0; i < cloudletNewList.size(); i++) {
             newcloudlets.add(cloudletNewList.get(i).getCloudletId());
-
         }
 
         System.out.println(Thread.currentThread().getName() + "*****New arrival queue Video ID_" + videoId + ": " + newcloudlets + " **********");
 
         System.out.println("**********************The size of batch queue is: " + getCloudletList().size() + " **************");
-
     }
 
     @SuppressWarnings("unchecked")

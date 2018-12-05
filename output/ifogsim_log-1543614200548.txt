@@ -1,0 +1,2865 @@
+Starting Video Streame Service...
+Initialising...
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #11 to Host #8 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #13 to Host #8 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #15 to Host #8 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #4 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #5 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #6 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #7 failed by RAM
+[VmScheduler.vmCreate] Allocation of VM #17 to Host #8 failed by RAM
+Starting CloudSim version 3.0
+cloud is starting...
+ap-0 is starting...
+gw-0 is starting...
+eu-0 is starting...
+eu-1 is starting...
+eu-2 is starting...
+eu-3 is starting...
+eu-4 is starting...
+Entities started.
+
+284,37: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+284,37: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+284,37: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+284,37: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+284,37: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 0,00 to 284,37:
+
+284,37: [Host #8] utilization at 0,00 was 0,00%, now is 0,00%
+284,37: [Host #8] energy is 0,00 W*sec
+
+284,37: Data center's energy is 0,00 W*sec
+
+
+284.37407407407403: broker-eu-0-0: Cloudlet 1 received
+
+294,17: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+294,17: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+294,17: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+294,17: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+294,17: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 284,37 to 294,17:
+
+294,17: [Host #8] utilization at 284,37 was 0,00%, now is 0,00%
+294,17: [Host #8] energy is 0,00 W*sec
+
+294,17: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #1 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+358.2481481481481: broker-eu-0-0: Cloudlet 1 received
+
+368,25: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+368,25: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+368,25: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+368,25: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+368,25: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 0,00 to 368,25:
+
+368,25: [Host #7] utilization at 0,00 was 0,00%, now is 0,00%
+368,25: [Host #7] energy is 0,00 W*sec
+
+368,25: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #1 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+432.3222222222222: broker-eu-0-0: Cloudlet 1 received
+
+442,32: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+442,32: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+442,32: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+442,32: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+442,32: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 0,00 to 442,32:
+
+442,32: [Host #4] utilization at 0,00 was 0,00%, now is 0,00%
+442,32: [Host #4] energy is 0,00 W*sec
+
+442,32: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #1 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+506.39629629629627: broker-eu-0-0: Cloudlet 1 received
+
+516,40: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+516,40: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+516,40: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+516,40: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+516,40: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 0,00 to 516,40:
+
+516,40: [Host #6] utilization at 0,00 was 0,00%, now is 0,00%
+516,40: [Host #6] energy is 0,00 W*sec
+
+516,40: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #1 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+580.4703703703703: broker-eu-0-0: Cloudlet 1 received
+
+590,47: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+590,47: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+590,47: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+590,47: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+590,47: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 0,00 to 590,47:
+
+590,47: [Host #5] utilization at 0,00 was 0,00%, now is 0,00%
+590,47: [Host #5] energy is 0,00 W*sec
+
+590,47: Data center's energy is 0,00 W*sec
+
+
+
+654,54: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+654,54: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+654,54: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+654,54: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+654,54: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 294,17 to 654,54:
+
+654,54: [Host #8] utilization at 294,17 was 0,00%, now is 0,00%
+654,54: [Host #8] energy is 0,00 W*sec
+
+654,54: Data center's energy is 0,00 W*sec
+
+
+
+654,74: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+654,74: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+654,74: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+654,74: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+654,74: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 654,54 to 654,74:
+
+654,74: [Host #8] utilization at 654,54 was 0,00%, now is 0,00%
+654,74: [Host #8] energy is 0,00 W*sec
+
+654,74: Data center's energy is 0,00 W*sec
+
+
+654.7444444444445: broker-eu-0-0: Cloudlet 2 received
+
+728,62: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+728,62: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+728,62: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+728,62: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+728,62: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 368,25 to 728,62:
+
+728,62: [Host #7] utilization at 368,25 was 0,00%, now is 0,00%
+728,62: [Host #7] energy is 0,00 W*sec
+
+728,62: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #2 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+728.6185185185186: broker-eu-0-0: Cloudlet 2 received
+
+802,69: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+802,69: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+802,69: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+802,69: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+802,69: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 442,32 to 802,69:
+
+802,69: [Host #4] utilization at 442,32 was 0,00%, now is 0,00%
+802,69: [Host #4] energy is 0,00 W*sec
+
+802,69: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #2 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+802.6925925925927: broker-eu-0-0: Cloudlet 2 received
+
+876,77: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+876,77: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+876,77: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+876,77: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+876,77: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 516,40 to 876,77:
+
+876,77: [Host #6] utilization at 516,40 was 0,00%, now is 0,00%
+876,77: [Host #6] energy is 0,00 W*sec
+
+876,77: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #2 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+876.7666666666669: broker-eu-0-0: Cloudlet 2 received
+
+950,84: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+950,84: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+950,84: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+950,84: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+950,84: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 590,47 to 950,84:
+
+950,84: [Host #5] utilization at 590,47 was 0,00%, now is 0,00%
+950,84: [Host #5] energy is 0,00 W*sec
+
+950,84: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #2 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+950.840740740741: broker-eu-0-0: Cloudlet 2 received
+
+1024,91: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1024,91: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+1024,91: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1024,91: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+1024,91: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 654,74 to 1024,91:
+
+1024,91: [Host #8] utilization at 654,74 was 0,00%, now is 0,00%
+1024,91: [Host #8] energy is 0,00 W*sec
+
+1024,91: Data center's energy is 0,00 W*sec
+
+
+
+1025,11: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1025,11: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+1025,11: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1025,11: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+1025,11: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 1024,91 to 1025,11:
+
+1025,11: [Host #8] utilization at 1024,91 was 0,00%, now is 0,00%
+1025,11: [Host #8] energy is 0,00 W*sec
+
+1025,11: Data center's energy is 0,00 W*sec
+
+
+1025.1148148148152: broker-eu-0-0: Cloudlet 3 received
+
+1098,99: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1098,99: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+1098,99: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1098,99: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+1098,99: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 728,62 to 1098,99:
+
+1098,99: [Host #7] utilization at 728,62 was 0,00%, now is 0,00%
+1098,99: [Host #7] energy is 0,00 W*sec
+
+1098,99: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #3 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+1098.9888888888893: broker-eu-0-0: Cloudlet 3 received
+
+1173,06: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1173,06: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+1173,06: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1173,06: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+1173,06: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 802,69 to 1173,06:
+
+1173,06: [Host #4] utilization at 802,69 was 0,00%, now is 0,00%
+1173,06: [Host #4] energy is 0,00 W*sec
+
+1173,06: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #3 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+1173.0629629629634: broker-eu-0-0: Cloudlet 3 received
+
+1247,14: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1247,14: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+1247,14: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1247,14: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+1247,14: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 876,77 to 1247,14:
+
+1247,14: [Host #6] utilization at 876,77 was 0,00%, now is 0,00%
+1247,14: [Host #6] energy is 0,00 W*sec
+
+1247,14: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #3 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+1247.1370370370375: broker-eu-0-0: Cloudlet 3 received
+
+1321,21: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1321,21: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+1321,21: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1321,21: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+1321,21: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 950,84 to 1321,21:
+
+1321,21: [Host #5] utilization at 950,84 was 0,00%, now is 0,00%
+1321,21: [Host #5] energy is 0,00 W*sec
+
+1321,21: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #3 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+1321.2111111111117: broker-eu-0-0: Cloudlet 3 received
+
+1395,29: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1395,29: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+1395,29: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1395,29: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+1395,29: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 1025,11 to 1395,29:
+
+1395,29: [Host #8] utilization at 1025,11 was 0,00%, now is 0,00%
+1395,29: [Host #8] energy is 0,00 W*sec
+
+1395,29: Data center's energy is 0,00 W*sec
+
+
+
+1395,49: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1395,49: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+1395,49: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1395,49: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+1395,49: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 1395,29 to 1395,49:
+
+1395,49: [Host #8] utilization at 1395,29 was 0,00%, now is 0,00%
+1395,49: [Host #8] energy is 0,00 W*sec
+
+1395,49: Data center's energy is 0,00 W*sec
+
+
+1395.4851851851859: broker-eu-0-0: Cloudlet 4 received
+
+1469,36: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1469,36: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+1469,36: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1469,36: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+1469,36: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 1098,99 to 1469,36:
+
+1469,36: [Host #7] utilization at 1098,99 was 0,00%, now is 0,00%
+1469,36: [Host #7] energy is 0,00 W*sec
+
+1469,36: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #4 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+1469.35925925926: broker-eu-0-0: Cloudlet 4 received
+
+1543,43: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1543,43: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+1543,43: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1543,43: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+1543,43: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1173,06 to 1543,43:
+
+1543,43: [Host #4] utilization at 1173,06 was 0,00%, now is 0,00%
+1543,43: [Host #4] energy is 0,00 W*sec
+
+1543,43: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #4 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+1543.433333333334: broker-eu-0-0: Cloudlet 4 received
+
+1617,51: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1617,51: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+1617,51: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1617,51: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+1617,51: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 1247,14 to 1617,51:
+
+1617,51: [Host #6] utilization at 1247,14 was 0,00%, now is 0,00%
+1617,51: [Host #6] energy is 0,00 W*sec
+
+1617,51: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #4 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+1617.5074074074082: broker-eu-0-0: Cloudlet 4 received
+
+1691,58: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1691,58: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+1691,58: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1691,58: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+1691,58: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 1321,21 to 1691,58:
+
+1691,58: [Host #5] utilization at 1321,21 was 0,00%, now is 0,00%
+1691,58: [Host #5] energy is 0,00 W*sec
+
+1691,58: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #4 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+1691.5814814814823: broker-eu-0-0: Cloudlet 4 received
+
+1765,66: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1765,66: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+1765,66: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1765,66: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+1765,66: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 1395,49 to 1765,66:
+
+1765,66: [Host #8] utilization at 1395,49 was 0,00%, now is 0,00%
+1765,66: [Host #8] energy is 0,00 W*sec
+
+1765,66: Data center's energy is 0,00 W*sec
+
+
+
+1765,86: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1765,86: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+1765,86: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1765,86: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+1765,86: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 1765,66 to 1765,86:
+
+1765,86: [Host #8] utilization at 1765,66 was 0,00%, now is 0,00%
+1765,86: [Host #8] energy is 0,00 W*sec
+
+1765,86: Data center's energy is 0,00 W*sec
+
+
+1765.8555555555565: broker-eu-0-0: Cloudlet 5 received
+
+1839,73: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1839,73: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+1839,73: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1839,73: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+1839,73: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 1469,36 to 1839,73:
+
+1839,73: [Host #7] utilization at 1469,36 was 0,00%, now is 0,00%
+1839,73: [Host #7] energy is 0,00 W*sec
+
+1839,73: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #5 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+1839.7296296296306: broker-eu-0-0: Cloudlet 5 received
+
+1913,80: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1913,80: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+1913,80: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1913,80: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+1913,80: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1543,43 to 1913,80:
+
+1913,80: [Host #4] utilization at 1543,43 was 0,00%, now is 0,00%
+1913,80: [Host #4] energy is 0,00 W*sec
+
+1913,80: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #5 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+1913.8037037037047: broker-eu-0-0: Cloudlet 5 received
+
+1987,88: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1987,88: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+1987,88: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+1987,88: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+1987,88: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 1617,51 to 1987,88:
+
+1987,88: [Host #6] utilization at 1617,51 was 0,00%, now is 0,00%
+1987,88: [Host #6] energy is 0,00 W*sec
+
+1987,88: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #5 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+1987.8777777777789: broker-eu-0-0: Cloudlet 5 received
+
+2061,95: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2061,95: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+2061,95: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2061,95: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+2061,95: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 1691,58 to 2061,95:
+
+2061,95: [Host #5] utilization at 1691,58 was 0,00%, now is 0,00%
+2061,95: [Host #5] energy is 0,00 W*sec
+
+2061,95: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #5 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+2061.951851851853: broker-eu-0-0: Cloudlet 5 received
+
+2136,03: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2136,03: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+2136,03: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2136,03: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+2136,03: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 1765,86 to 2136,03:
+
+2136,03: [Host #8] utilization at 1765,86 was 0,00%, now is 0,00%
+2136,03: [Host #8] energy is 0,00 W*sec
+
+2136,03: Data center's energy is 0,00 W*sec
+
+
+
+2136,23: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2136,23: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+2136,23: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2136,23: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+2136,23: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 2136,03 to 2136,23:
+
+2136,23: [Host #8] utilization at 2136,03 was 0,00%, now is 0,00%
+2136,23: [Host #8] energy is 0,00 W*sec
+
+2136,23: Data center's energy is 0,00 W*sec
+
+
+2136.2259259259267: broker-eu-0-0: Cloudlet 11 received
+
+2210,10: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2210,10: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+2210,10: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2210,10: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+2210,10: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 1839,73 to 2210,10:
+
+2210,10: [Host #7] utilization at 1839,73 was 0,00%, now is 0,00%
+2210,10: [Host #7] energy is 0,00 W*sec
+
+2210,10: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #11 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+2210.100000000001: broker-eu-0-0: Cloudlet 11 received
+
+2284,17: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2284,17: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+2284,17: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2284,17: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+2284,17: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 1913,80 to 2284,17:
+
+2284,17: [Host #4] utilization at 1913,80 was 0,00%, now is 0,00%
+2284,17: [Host #4] energy is 0,00 W*sec
+
+2284,17: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #11 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+2284.1740740740747: broker-eu-0-0: Cloudlet 11 received
+
+2358,25: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2358,25: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+2358,25: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2358,25: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+2358,25: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 1987,88 to 2358,25:
+
+2358,25: [Host #6] utilization at 1987,88 was 0,00%, now is 0,00%
+2358,25: [Host #6] energy is 0,00 W*sec
+
+2358,25: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #11 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+2358.2481481481486: broker-eu-0-0: Cloudlet 11 received
+
+2432,32: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2432,32: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+2432,32: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2432,32: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+2432,32: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 2061,95 to 2432,32:
+
+2432,32: [Host #5] utilization at 2061,95 was 0,00%, now is 0,00%
+2432,32: [Host #5] energy is 0,00 W*sec
+
+2432,32: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #11 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+2432.3222222222225: broker-eu-0-0: Cloudlet 11 received
+
+2506,40: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2506,40: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+2506,40: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2506,40: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+2506,40: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 2136,23 to 2506,40:
+
+2506,40: [Host #8] utilization at 2136,23 was 0,00%, now is 0,00%
+2506,40: [Host #8] energy is 0,00 W*sec
+
+2506,40: Data center's energy is 0,00 W*sec
+
+
+
+2506,60: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2506,60: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+2506,60: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2506,60: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+2506,60: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 2506,40 to 2506,60:
+
+2506,60: [Host #8] utilization at 2506,40 was 0,00%, now is 0,00%
+2506,60: [Host #8] energy is 0,00 W*sec
+
+2506,60: Data center's energy is 0,00 W*sec
+
+
+2506.5962962962963: broker-eu-0-0: Cloudlet 12 received
+
+2580,47: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2580,47: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+2580,47: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2580,47: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+2580,47: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 2210,10 to 2580,47:
+
+2580,47: [Host #7] utilization at 2210,10 was 0,00%, now is 0,00%
+2580,47: [Host #7] energy is 0,00 W*sec
+
+2580,47: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #12 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+2580.4703703703703: broker-eu-0-0: Cloudlet 12 received
+
+2654,54: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2654,54: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+2654,54: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2654,54: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+2654,54: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2284,17 to 2654,54:
+
+2654,54: [Host #4] utilization at 2284,17 was 0,00%, now is 0,00%
+2654,54: [Host #4] energy is 0,00 W*sec
+
+2654,54: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #12 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+2654.5444444444443: broker-eu-0-0: Cloudlet 12 received
+
+2728,62: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2728,62: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+2728,62: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2728,62: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+2728,62: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 2358,25 to 2728,62:
+
+2728,62: [Host #6] utilization at 2358,25 was 0,00%, now is 0,00%
+2728,62: [Host #6] energy is 0,00 W*sec
+
+2728,62: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #12 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+2728.618518518518: broker-eu-0-0: Cloudlet 12 received
+
+2802,69: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2802,69: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+2802,69: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2802,69: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+2802,69: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 2432,32 to 2802,69:
+
+2802,69: [Host #5] utilization at 2432,32 was 0,00%, now is 0,00%
+2802,69: [Host #5] energy is 0,00 W*sec
+
+2802,69: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #12 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+2802.692592592592: broker-eu-0-0: Cloudlet 12 received
+
+2876,77: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2876,77: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+2876,77: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2876,77: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+2876,77: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 2506,60 to 2876,77:
+
+2876,77: [Host #8] utilization at 2506,60 was 0,00%, now is 0,00%
+2876,77: [Host #8] energy is 0,00 W*sec
+
+2876,77: Data center's energy is 0,00 W*sec
+
+
+
+2876,97: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2876,97: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+2876,97: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2876,97: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+2876,97: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 2876,77 to 2876,97:
+
+2876,97: [Host #8] utilization at 2876,77 was 0,00%, now is 0,00%
+2876,97: [Host #8] energy is 0,00 W*sec
+
+2876,97: Data center's energy is 0,00 W*sec
+
+
+2876.966666666666: broker-eu-0-0: Cloudlet 13 received
+
+2950,84: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2950,84: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+2950,84: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+2950,84: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+2950,84: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 2580,47 to 2950,84:
+
+2950,84: [Host #7] utilization at 2580,47 was 0,00%, now is 0,00%
+2950,84: [Host #7] energy is 0,00 W*sec
+
+2950,84: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #13 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+2950.84074074074: broker-eu-0-0: Cloudlet 13 received
+
+3024,91: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3024,91: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+3024,91: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3024,91: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+3024,91: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 2654,54 to 3024,91:
+
+3024,91: [Host #4] utilization at 2654,54 was 0,00%, now is 0,00%
+3024,91: [Host #4] energy is 0,00 W*sec
+
+3024,91: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #13 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+3024.914814814814: broker-eu-0-0: Cloudlet 13 received
+
+3098,99: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3098,99: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+3098,99: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3098,99: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+3098,99: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 2728,62 to 3098,99:
+
+3098,99: [Host #6] utilization at 2728,62 was 0,00%, now is 0,00%
+3098,99: [Host #6] energy is 0,00 W*sec
+
+3098,99: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #13 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+3098.9888888888877: broker-eu-0-0: Cloudlet 13 received
+
+3173,06: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3173,06: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+3173,06: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3173,06: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+3173,06: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 2802,69 to 3173,06:
+
+3173,06: [Host #5] utilization at 2802,69 was 0,00%, now is 0,00%
+3173,06: [Host #5] energy is 0,00 W*sec
+
+3173,06: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #13 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+3173.0629629629616: broker-eu-0-0: Cloudlet 13 received
+
+3247,14: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3247,14: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+3247,14: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3247,14: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+3247,14: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 2876,97 to 3247,14:
+
+3247,14: [Host #8] utilization at 2876,97 was 0,00%, now is 0,00%
+3247,14: [Host #8] energy is 0,00 W*sec
+
+3247,14: Data center's energy is 0,00 W*sec
+
+
+
+3247,34: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3247,34: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+3247,34: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3247,34: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+3247,34: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 3247,14 to 3247,34:
+
+3247,34: [Host #8] utilization at 3247,14 was 0,00%, now is 0,00%
+3247,34: [Host #8] energy is 0,00 W*sec
+
+3247,34: Data center's energy is 0,00 W*sec
+
+
+3247.3370370370353: broker-eu-0-0: Cloudlet 14 received
+
+3321,21: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3321,21: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+3321,21: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3321,21: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+3321,21: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 2950,84 to 3321,21:
+
+3321,21: [Host #7] utilization at 2950,84 was 0,00%, now is 0,00%
+3321,21: [Host #7] energy is 0,00 W*sec
+
+3321,21: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #14 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+3321.2111111111094: broker-eu-0-0: Cloudlet 14 received
+
+3395,29: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3395,29: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+3395,29: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3395,29: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+3395,29: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3024,91 to 3395,29:
+
+3395,29: [Host #4] utilization at 3024,91 was 0,00%, now is 0,00%
+3395,29: [Host #4] energy is 0,00 W*sec
+
+3395,29: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #14 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+3395.2851851851833: broker-eu-0-0: Cloudlet 14 received
+
+3469,36: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3469,36: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+3469,36: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3469,36: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+3469,36: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 3098,99 to 3469,36:
+
+3469,36: [Host #6] utilization at 3098,99 was 0,00%, now is 0,00%
+3469,36: [Host #6] energy is 0,00 W*sec
+
+3469,36: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #14 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+3469.359259259257: broker-eu-0-0: Cloudlet 14 received
+
+3543,43: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3543,43: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+3543,43: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3543,43: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+3543,43: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 3173,06 to 3543,43:
+
+3543,43: [Host #5] utilization at 3173,06 was 0,00%, now is 0,00%
+3543,43: [Host #5] energy is 0,00 W*sec
+
+3543,43: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #14 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+3543.433333333331: broker-eu-0-0: Cloudlet 14 received
+
+3617,51: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3617,51: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+3617,51: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3617,51: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+3617,51: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 3247,34 to 3617,51:
+
+3617,51: [Host #8] utilization at 3247,34 was 0,00%, now is 0,00%
+3617,51: [Host #8] energy is 0,00 W*sec
+
+3617,51: Data center's energy is 0,00 W*sec
+
+
+
+3617,71: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3617,71: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+3617,71: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3617,71: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+3617,71: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 3617,51 to 3617,71:
+
+3617,71: [Host #8] utilization at 3617,51 was 0,00%, now is 0,00%
+3617,71: [Host #8] energy is 0,00 W*sec
+
+3617,71: Data center's energy is 0,00 W*sec
+
+
+3617.707407407405: broker-eu-0-0: Cloudlet 15 received
+
+3691,58: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3691,58: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+3691,58: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3691,58: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+3691,58: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 3321,21 to 3691,58:
+
+3691,58: [Host #7] utilization at 3321,21 was 0,00%, now is 0,00%
+3691,58: [Host #7] energy is 0,00 W*sec
+
+3691,58: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #15 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+3691.581481481479: broker-eu-0-0: Cloudlet 15 received
+
+3765,66: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3765,66: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+3765,66: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3765,66: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+3765,66: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3395,29 to 3765,66:
+
+3765,66: [Host #4] utilization at 3395,29 was 0,00%, now is 0,00%
+3765,66: [Host #4] energy is 0,00 W*sec
+
+3765,66: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #15 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+3765.655555555553: broker-eu-0-0: Cloudlet 15 received
+
+3839,73: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3839,73: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+3839,73: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3839,73: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+3839,73: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 3469,36 to 3839,73:
+
+3839,73: [Host #6] utilization at 3469,36 was 0,00%, now is 0,00%
+3839,73: [Host #6] energy is 0,00 W*sec
+
+3839,73: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #15 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+3839.7296296296267: broker-eu-0-0: Cloudlet 15 received
+
+3913,80: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3913,80: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+3913,80: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3913,80: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+3913,80: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 3543,43 to 3913,80:
+
+3913,80: [Host #5] utilization at 3543,43 was 0,00%, now is 0,00%
+3913,80: [Host #5] energy is 0,00 W*sec
+
+3913,80: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #15 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+3913.8037037037006: broker-eu-0-0: Cloudlet 15 received
+
+3987,88: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3987,88: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+3987,88: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3987,88: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+3987,88: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 3617,71 to 3987,88:
+
+3987,88: [Host #8] utilization at 3617,71 was 0,00%, now is 0,00%
+3987,88: [Host #8] energy is 0,00 W*sec
+
+3987,88: Data center's energy is 0,00 W*sec
+
+
+
+3988,08: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3988,08: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+3988,08: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+3988,08: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+3988,08: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 3987,88 to 3988,08:
+
+3988,08: [Host #8] utilization at 3987,88 was 0,00%, now is 0,00%
+3988,08: [Host #8] energy is 0,00 W*sec
+
+3988,08: Data center's energy is 0,00 W*sec
+
+
+3988.0777777777744: broker-eu-0-0: Cloudlet 21 received
+
+4061,95: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4061,95: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+4061,95: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4061,95: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+4061,95: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 3691,58 to 4061,95:
+
+4061,95: [Host #7] utilization at 3691,58 was 0,00%, now is 0,00%
+4061,95: [Host #7] energy is 0,00 W*sec
+
+4061,95: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #21 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+4061.9518518518485: broker-eu-0-0: Cloudlet 21 received
+
+4136,03: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4136,03: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+4136,03: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4136,03: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+4136,03: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 3765,66 to 4136,03:
+
+4136,03: [Host #4] utilization at 3765,66 was 0,00%, now is 0,00%
+4136,03: [Host #4] energy is 0,00 W*sec
+
+4136,03: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #21 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+4136.025925925923: broker-eu-0-0: Cloudlet 21 received
+
+4210,10: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4210,10: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+4210,10: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4210,10: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+4210,10: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 3839,73 to 4210,10:
+
+4210,10: [Host #6] utilization at 3839,73 was 0,00%, now is 0,00%
+4210,10: [Host #6] energy is 0,00 W*sec
+
+4210,10: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #21 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+4210.099999999997: broker-eu-0-0: Cloudlet 21 received
+
+4284,17: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4284,17: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+4284,17: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4284,17: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+4284,17: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 3913,80 to 4284,17:
+
+4284,17: [Host #5] utilization at 3913,80 was 0,00%, now is 0,00%
+4284,17: [Host #5] energy is 0,00 W*sec
+
+4284,17: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #21 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+4284.174074074071: broker-eu-0-0: Cloudlet 21 received
+
+4358,25: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4358,25: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+4358,25: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4358,25: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+4358,25: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 3988,08 to 4358,25:
+
+4358,25: [Host #8] utilization at 3988,08 was 0,00%, now is 0,00%
+4358,25: [Host #8] energy is 0,00 W*sec
+
+4358,25: Data center's energy is 0,00 W*sec
+
+
+
+4358,45: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4358,45: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+4358,45: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4358,45: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+4358,45: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 4358,25 to 4358,45:
+
+4358,45: [Host #8] utilization at 4358,25 was 0,00%, now is 0,00%
+4358,45: [Host #8] energy is 0,00 W*sec
+
+4358,45: Data center's energy is 0,00 W*sec
+
+
+4358.448148148144: broker-eu-0-0: Cloudlet 22 received
+
+4432,32: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4432,32: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+4432,32: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4432,32: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+4432,32: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 4061,95 to 4432,32:
+
+4432,32: [Host #7] utilization at 4061,95 was 0,00%, now is 0,00%
+4432,32: [Host #7] energy is 0,00 W*sec
+
+4432,32: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #22 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+4432.322222222218: broker-eu-0-0: Cloudlet 22 received
+
+4506,40: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4506,40: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+4506,40: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4506,40: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+4506,40: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4136,03 to 4506,40:
+
+4506,40: [Host #4] utilization at 4136,03 was 0,00%, now is 0,00%
+4506,40: [Host #4] energy is 0,00 W*sec
+
+4506,40: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #22 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+4506.396296296292: broker-eu-0-0: Cloudlet 22 received
+
+4580,47: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4580,47: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+4580,47: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4580,47: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+4580,47: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 4210,10 to 4580,47:
+
+4580,47: [Host #6] utilization at 4210,10 was 0,00%, now is 0,00%
+4580,47: [Host #6] energy is 0,00 W*sec
+
+4580,47: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #22 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+4580.470370370366: broker-eu-0-0: Cloudlet 22 received
+
+4654,54: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4654,54: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+4654,54: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4654,54: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+4654,54: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 4284,17 to 4654,54:
+
+4654,54: [Host #5] utilization at 4284,17 was 0,00%, now is 0,00%
+4654,54: [Host #5] energy is 0,00 W*sec
+
+4654,54: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #22 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+4654.54444444444: broker-eu-0-0: Cloudlet 22 received
+
+4728,62: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4728,62: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+4728,62: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4728,62: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+4728,62: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 4358,45 to 4728,62:
+
+4728,62: [Host #8] utilization at 4358,45 was 0,00%, now is 0,00%
+4728,62: [Host #8] energy is 0,00 W*sec
+
+4728,62: Data center's energy is 0,00 W*sec
+
+
+
+4728,82: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4728,82: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+4728,82: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4728,82: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+4728,82: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 4728,62 to 4728,82:
+
+4728,82: [Host #8] utilization at 4728,62 was 0,00%, now is 0,00%
+4728,82: [Host #8] energy is 0,00 W*sec
+
+4728,82: Data center's energy is 0,00 W*sec
+
+
+4728.818518518514: broker-eu-0-0: Cloudlet 23 received
+
+4802,69: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4802,69: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+4802,69: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4802,69: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+4802,69: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 4432,32 to 4802,69:
+
+4802,69: [Host #7] utilization at 4432,32 was 0,00%, now is 0,00%
+4802,69: [Host #7] energy is 0,00 W*sec
+
+4802,69: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #23 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+4802.692592592588: broker-eu-0-0: Cloudlet 23 received
+
+4876,77: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4876,77: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+4876,77: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4876,77: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+4876,77: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4506,40 to 4876,77:
+
+4876,77: [Host #4] utilization at 4506,40 was 0,00%, now is 0,00%
+4876,77: [Host #4] energy is 0,00 W*sec
+
+4876,77: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #23 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+4876.766666666662: broker-eu-0-0: Cloudlet 23 received
+
+4950,84: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4950,84: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+4950,84: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+4950,84: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+4950,84: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 4580,47 to 4950,84:
+
+4950,84: [Host #6] utilization at 4580,47 was 0,00%, now is 0,00%
+4950,84: [Host #6] energy is 0,00 W*sec
+
+4950,84: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #23 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+4950.840740740736: broker-eu-0-0: Cloudlet 23 received
+
+5024,91: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5024,91: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+5024,91: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5024,91: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+5024,91: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 4654,54 to 5024,91:
+
+5024,91: [Host #5] utilization at 4654,54 was 0,00%, now is 0,00%
+5024,91: [Host #5] energy is 0,00 W*sec
+
+5024,91: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #23 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+5024.91481481481: broker-eu-0-0: Cloudlet 23 received
+
+5098,99: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5098,99: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+5098,99: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5098,99: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+5098,99: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 4728,82 to 5098,99:
+
+5098,99: [Host #8] utilization at 4728,82 was 0,00%, now is 0,00%
+5098,99: [Host #8] energy is 0,00 W*sec
+
+5098,99: Data center's energy is 0,00 W*sec
+
+
+
+5099,19: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5099,19: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+5099,19: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5099,19: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+5099,19: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 5098,99 to 5099,19:
+
+5099,19: [Host #8] utilization at 5098,99 was 0,00%, now is 0,00%
+5099,19: [Host #8] energy is 0,00 W*sec
+
+5099,19: Data center's energy is 0,00 W*sec
+
+
+5099.188888888883: broker-eu-0-0: Cloudlet 24 received
+
+5173,06: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5173,06: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+5173,06: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5173,06: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+5173,06: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 4802,69 to 5173,06:
+
+5173,06: [Host #7] utilization at 4802,69 was 0,00%, now is 0,00%
+5173,06: [Host #7] energy is 0,00 W*sec
+
+5173,06: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #24 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+5173.0629629629575: broker-eu-0-0: Cloudlet 24 received
+
+5247,14: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5247,14: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+5247,14: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5247,14: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+5247,14: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 4876,77 to 5247,14:
+
+5247,14: [Host #4] utilization at 4876,77 was 0,00%, now is 0,00%
+5247,14: [Host #4] energy is 0,00 W*sec
+
+5247,14: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #24 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+5247.137037037031: broker-eu-0-0: Cloudlet 24 received
+
+5321,21: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5321,21: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+5321,21: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5321,21: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+5321,21: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 4950,84 to 5321,21:
+
+5321,21: [Host #6] utilization at 4950,84 was 0,00%, now is 0,00%
+5321,21: [Host #6] energy is 0,00 W*sec
+
+5321,21: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #24 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+5321.211111111105: broker-eu-0-0: Cloudlet 24 received
+
+5395,29: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5395,29: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+5395,29: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5395,29: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+5395,29: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 5024,91 to 5395,29:
+
+5395,29: [Host #5] utilization at 5024,91 was 0,00%, now is 0,00%
+5395,29: [Host #5] energy is 0,00 W*sec
+
+5395,29: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #24 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+5395.285185185179: broker-eu-0-0: Cloudlet 24 received
+
+5469,36: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5469,36: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+5469,36: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5469,36: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+5469,36: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 5099,19 to 5469,36:
+
+5469,36: [Host #8] utilization at 5099,19 was 0,00%, now is 0,00%
+5469,36: [Host #8] energy is 0,00 W*sec
+
+5469,36: Data center's energy is 0,00 W*sec
+
+
+
+5469,56: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5469,56: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+5469,56: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5469,56: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+5469,56: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 5469,36 to 5469,56:
+
+5469,56: [Host #8] utilization at 5469,36 was 0,00%, now is 0,00%
+5469,56: [Host #8] energy is 0,00 W*sec
+
+5469,56: Data center's energy is 0,00 W*sec
+
+
+5469.559259259253: broker-eu-0-0: Cloudlet 25 received
+
+5543,43: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5543,43: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+5543,43: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5543,43: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+5543,43: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 5173,06 to 5543,43:
+
+5543,43: [Host #7] utilization at 5173,06 was 0,00%, now is 0,00%
+5543,43: [Host #7] energy is 0,00 W*sec
+
+5543,43: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #25 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+5543.433333333327: broker-eu-0-0: Cloudlet 25 received
+
+5617,51: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5617,51: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+5617,51: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5617,51: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+5617,51: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5247,14 to 5617,51:
+
+5617,51: [Host #4] utilization at 5247,14 was 0,00%, now is 0,00%
+5617,51: [Host #4] energy is 0,00 W*sec
+
+5617,51: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #25 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+5617.507407407401: broker-eu-0-0: Cloudlet 25 received
+
+5691,58: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5691,58: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+5691,58: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5691,58: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+5691,58: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 5321,21 to 5691,58:
+
+5691,58: [Host #6] utilization at 5321,21 was 0,00%, now is 0,00%
+5691,58: [Host #6] energy is 0,00 W*sec
+
+5691,58: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #25 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+5691.581481481475: broker-eu-0-0: Cloudlet 25 received
+
+5765,66: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5765,66: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+5765,66: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5765,66: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+5765,66: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 5395,29 to 5765,66:
+
+5765,66: [Host #5] utilization at 5395,29 was 0,00%, now is 0,00%
+5765,66: [Host #5] energy is 0,00 W*sec
+
+5765,66: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #25 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+5765.655555555549: broker-eu-0-0: Cloudlet 25 received
+
+5839,73: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5839,73: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+5839,73: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5839,73: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+5839,73: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 5469,56 to 5839,73:
+
+5839,73: [Host #8] utilization at 5469,56 was 0,00%, now is 0,00%
+5839,73: [Host #8] energy is 0,00 W*sec
+
+5839,73: Data center's energy is 0,00 W*sec
+
+
+
+5839,93: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5839,93: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+5839,93: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5839,93: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+5839,93: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 5839,73 to 5839,93:
+
+5839,93: [Host #8] utilization at 5839,73 was 0,00%, now is 0,00%
+5839,93: [Host #8] energy is 0,00 W*sec
+
+5839,93: Data center's energy is 0,00 W*sec
+
+
+5839.9296296296225: broker-eu-0-0: Cloudlet 31 received
+
+5913,80: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5913,80: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+5913,80: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5913,80: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+5913,80: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 5543,43 to 5913,80:
+
+5913,80: [Host #7] utilization at 5543,43 was 0,00%, now is 0,00%
+5913,80: [Host #7] energy is 0,00 W*sec
+
+5913,80: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #31 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+5913.803703703697: broker-eu-0-0: Cloudlet 31 received
+
+5987,88: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5987,88: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+5987,88: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+5987,88: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+5987,88: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5617,51 to 5987,88:
+
+5987,88: [Host #4] utilization at 5617,51 was 0,00%, now is 0,00%
+5987,88: [Host #4] energy is 0,00 W*sec
+
+5987,88: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #31 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+5987.8777777777705: broker-eu-0-0: Cloudlet 31 received
+
+6061,95: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6061,95: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+6061,95: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6061,95: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+6061,95: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 5691,58 to 6061,95:
+
+6061,95: [Host #6] utilization at 5691,58 was 0,00%, now is 0,00%
+6061,95: [Host #6] energy is 0,00 W*sec
+
+6061,95: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #31 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+6061.951851851844: broker-eu-0-0: Cloudlet 31 received
+
+6136,03: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6136,03: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+6136,03: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6136,03: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+6136,03: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 5765,66 to 6136,03:
+
+6136,03: [Host #5] utilization at 5765,66 was 0,00%, now is 0,00%
+6136,03: [Host #5] energy is 0,00 W*sec
+
+6136,03: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #31 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+6136.025925925918: broker-eu-0-0: Cloudlet 31 received
+
+6210,10: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6210,10: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+6210,10: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6210,10: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+6210,10: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 5839,93 to 6210,10:
+
+6210,10: [Host #8] utilization at 5839,93 was 0,00%, now is 0,00%
+6210,10: [Host #8] energy is 0,00 W*sec
+
+6210,10: Data center's energy is 0,00 W*sec
+
+
+
+6210,30: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6210,30: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+6210,30: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6210,30: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+6210,30: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 6210,10 to 6210,30:
+
+6210,30: [Host #8] utilization at 6210,10 was 0,00%, now is 0,00%
+6210,30: [Host #8] energy is 0,00 W*sec
+
+6210,30: Data center's energy is 0,00 W*sec
+
+
+6210.299999999992: broker-eu-0-0: Cloudlet 32 received
+
+6284,17: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6284,17: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+6284,17: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6284,17: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+6284,17: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 5913,80 to 6284,17:
+
+6284,17: [Host #7] utilization at 5913,80 was 0,00%, now is 0,00%
+6284,17: [Host #7] energy is 0,00 W*sec
+
+6284,17: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #32 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+6284.174074074066: broker-eu-0-0: Cloudlet 32 received
+
+6358,25: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6358,25: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+6358,25: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6358,25: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+6358,25: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 5987,88 to 6358,25:
+
+6358,25: [Host #4] utilization at 5987,88 was 0,00%, now is 0,00%
+6358,25: [Host #4] energy is 0,00 W*sec
+
+6358,25: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #32 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+6358.24814814814: broker-eu-0-0: Cloudlet 32 received
+
+6432,32: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6432,32: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+6432,32: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6432,32: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+6432,32: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 6061,95 to 6432,32:
+
+6432,32: [Host #6] utilization at 6061,95 was 0,00%, now is 0,00%
+6432,32: [Host #6] energy is 0,00 W*sec
+
+6432,32: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #32 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+6432.322222222214: broker-eu-0-0: Cloudlet 32 received
+
+6506,40: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6506,40: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+6506,40: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6506,40: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+6506,40: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 6136,03 to 6506,40:
+
+6506,40: [Host #5] utilization at 6136,03 was 0,00%, now is 0,00%
+6506,40: [Host #5] energy is 0,00 W*sec
+
+6506,40: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #32 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+6506.396296296288: broker-eu-0-0: Cloudlet 32 received
+
+6580,47: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6580,47: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+6580,47: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6580,47: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+6580,47: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 6210,30 to 6580,47:
+
+6580,47: [Host #8] utilization at 6210,30 was 0,00%, now is 0,00%
+6580,47: [Host #8] energy is 0,00 W*sec
+
+6580,47: Data center's energy is 0,00 W*sec
+
+
+
+6580,67: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6580,67: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+6580,67: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6580,67: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+6580,67: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 6580,47 to 6580,67:
+
+6580,67: [Host #8] utilization at 6580,47 was 0,00%, now is 0,00%
+6580,67: [Host #8] energy is 0,00 W*sec
+
+6580,67: Data center's energy is 0,00 W*sec
+
+
+6580.6703703703615: broker-eu-0-0: Cloudlet 33 received
+
+6654,54: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6654,54: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+6654,54: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6654,54: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+6654,54: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 6284,17 to 6654,54:
+
+6654,54: [Host #7] utilization at 6284,17 was 0,00%, now is 0,00%
+6654,54: [Host #7] energy is 0,00 W*sec
+
+6654,54: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #33 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+6654.544444444436: broker-eu-0-0: Cloudlet 33 received
+
+6728,62: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6728,62: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+6728,62: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6728,62: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+6728,62: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6358,25 to 6728,62:
+
+6728,62: [Host #4] utilization at 6358,25 was 0,00%, now is 0,00%
+6728,62: [Host #4] energy is 0,00 W*sec
+
+6728,62: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #33 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+6728.6185185185095: broker-eu-0-0: Cloudlet 33 received
+
+6802,69: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6802,69: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+6802,69: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6802,69: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+6802,69: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 6432,32 to 6802,69:
+
+6802,69: [Host #6] utilization at 6432,32 was 0,00%, now is 0,00%
+6802,69: [Host #6] energy is 0,00 W*sec
+
+6802,69: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #33 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+6802.692592592583: broker-eu-0-0: Cloudlet 33 received
+
+6876,77: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6876,77: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+6876,77: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6876,77: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+6876,77: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 6506,40 to 6876,77:
+
+6876,77: [Host #5] utilization at 6506,40 was 0,00%, now is 0,00%
+6876,77: [Host #5] energy is 0,00 W*sec
+
+6876,77: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #33 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+6876.766666666657: broker-eu-0-0: Cloudlet 33 received
+
+6950,84: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6950,84: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+6950,84: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6950,84: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+6950,84: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 6580,67 to 6950,84:
+
+6950,84: [Host #8] utilization at 6580,67 was 0,00%, now is 0,00%
+6950,84: [Host #8] energy is 0,00 W*sec
+
+6950,84: Data center's energy is 0,00 W*sec
+
+
+
+6951,04: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6951,04: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+6951,04: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+6951,04: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+6951,04: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 6950,84 to 6951,04:
+
+6951,04: [Host #8] utilization at 6950,84 was 0,00%, now is 0,00%
+6951,04: [Host #8] energy is 0,00 W*sec
+
+6951,04: Data center's energy is 0,00 W*sec
+
+
+6951.040740740731: broker-eu-0-0: Cloudlet 34 received
+
+7024,91: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7024,91: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+7024,91: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7024,91: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+7024,91: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 6654,54 to 7024,91:
+
+7024,91: [Host #7] utilization at 6654,54 was 0,00%, now is 0,00%
+7024,91: [Host #7] energy is 0,00 W*sec
+
+7024,91: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #34 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+7024.914814814805: broker-eu-0-0: Cloudlet 34 received
+
+7098,99: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7098,99: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+7098,99: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7098,99: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+7098,99: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 6728,62 to 7098,99:
+
+7098,99: [Host #4] utilization at 6728,62 was 0,00%, now is 0,00%
+7098,99: [Host #4] energy is 0,00 W*sec
+
+7098,99: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #34 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+7098.988888888879: broker-eu-0-0: Cloudlet 34 received
+
+7173,06: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7173,06: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+7173,06: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7173,06: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+7173,06: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 6802,69 to 7173,06:
+
+7173,06: [Host #6] utilization at 6802,69 was 0,00%, now is 0,00%
+7173,06: [Host #6] energy is 0,00 W*sec
+
+7173,06: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #34 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+7173.062962962953: broker-eu-0-0: Cloudlet 34 received
+
+7247,14: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7247,14: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+7247,14: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7247,14: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+7247,14: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 6876,77 to 7247,14:
+
+7247,14: [Host #5] utilization at 6876,77 was 0,00%, now is 0,00%
+7247,14: [Host #5] energy is 0,00 W*sec
+
+7247,14: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #34 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+7247.137037037027: broker-eu-0-0: Cloudlet 34 received
+
+7321,21: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7321,21: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+7321,21: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7321,21: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+7321,21: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 6951,04 to 7321,21:
+
+7321,21: [Host #8] utilization at 6951,04 was 0,00%, now is 0,00%
+7321,21: [Host #8] energy is 0,00 W*sec
+
+7321,21: Data center's energy is 0,00 W*sec
+
+
+
+7321,41: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7321,41: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+7321,41: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7321,41: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+7321,41: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 7321,21 to 7321,41:
+
+7321,41: [Host #8] utilization at 7321,21 was 0,00%, now is 0,00%
+7321,41: [Host #8] energy is 0,00 W*sec
+
+7321,41: Data center's energy is 0,00 W*sec
+
+
+7321.411111111101: broker-eu-0-0: Cloudlet 35 received
+
+7395,29: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7395,29: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+7395,29: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7395,29: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+7395,29: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 7024,91 to 7395,29:
+
+7395,29: [Host #7] utilization at 7024,91 was 0,00%, now is 0,00%
+7395,29: [Host #7] energy is 0,00 W*sec
+
+7395,29: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #35 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+7395.285185185175: broker-eu-0-0: Cloudlet 35 received
+
+7469,36: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7469,36: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+7469,36: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7469,36: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+7469,36: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7098,99 to 7469,36:
+
+7469,36: [Host #4] utilization at 7098,99 was 0,00%, now is 0,00%
+7469,36: [Host #4] energy is 0,00 W*sec
+
+7469,36: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #35 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+7469.359259259249: broker-eu-0-0: Cloudlet 35 received
+
+7543,43: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7543,43: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+7543,43: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7543,43: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+7543,43: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 7173,06 to 7543,43:
+
+7543,43: [Host #6] utilization at 7173,06 was 0,00%, now is 0,00%
+7543,43: [Host #6] energy is 0,00 W*sec
+
+7543,43: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #35 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+7543.4333333333225: broker-eu-0-0: Cloudlet 35 received
+
+7617,51: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7617,51: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+7617,51: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7617,51: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+7617,51: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 7247,14 to 7617,51:
+
+7617,51: [Host #5] utilization at 7247,14 was 0,00%, now is 0,00%
+7617,51: [Host #5] energy is 0,00 W*sec
+
+7617,51: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #35 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+7617.507407407396: broker-eu-0-0: Cloudlet 35 received
+
+7691,58: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7691,58: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+7691,58: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7691,58: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+7691,58: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 7321,41 to 7691,58:
+
+7691,58: [Host #8] utilization at 7321,41 was 0,00%, now is 0,00%
+7691,58: [Host #8] energy is 0,00 W*sec
+
+7691,58: Data center's energy is 0,00 W*sec
+
+
+
+7691,78: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7691,78: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+7691,78: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7691,78: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+7691,78: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 7691,58 to 7691,78:
+
+7691,78: [Host #8] utilization at 7691,58 was 0,00%, now is 0,00%
+7691,78: [Host #8] energy is 0,00 W*sec
+
+7691,78: Data center's energy is 0,00 W*sec
+
+
+7691.78148148147: broker-eu-0-0: Cloudlet 41 received
+
+7765,66: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7765,66: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+7765,66: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7765,66: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+7765,66: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 7395,29 to 7765,66:
+
+7765,66: [Host #7] utilization at 7395,29 was 0,00%, now is 0,00%
+7765,66: [Host #7] energy is 0,00 W*sec
+
+7765,66: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #41 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+7765.655555555544: broker-eu-0-0: Cloudlet 41 received
+
+7839,73: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7839,73: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+7839,73: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7839,73: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+7839,73: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7469,36 to 7839,73:
+
+7839,73: [Host #4] utilization at 7469,36 was 0,00%, now is 0,00%
+7839,73: [Host #4] energy is 0,00 W*sec
+
+7839,73: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #41 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+7839.729629629618: broker-eu-0-0: Cloudlet 41 received
+
+7913,80: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7913,80: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+7913,80: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7913,80: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+7913,80: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 7543,43 to 7913,80:
+
+7913,80: [Host #6] utilization at 7543,43 was 0,00%, now is 0,00%
+7913,80: [Host #6] energy is 0,00 W*sec
+
+7913,80: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #41 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+7913.803703703692: broker-eu-0-0: Cloudlet 41 received
+
+7987,88: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7987,88: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+7987,88: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+7987,88: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+7987,88: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 7617,51 to 7987,88:
+
+7987,88: [Host #5] utilization at 7617,51 was 0,00%, now is 0,00%
+7987,88: [Host #5] energy is 0,00 W*sec
+
+7987,88: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #41 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+7987.877777777766: broker-eu-0-0: Cloudlet 41 received
+
+8061,95: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8061,95: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+8061,95: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8061,95: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+8061,95: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 7691,78 to 8061,95:
+
+8061,95: [Host #8] utilization at 7691,78 was 0,00%, now is 0,00%
+8061,95: [Host #8] energy is 0,00 W*sec
+
+8061,95: Data center's energy is 0,00 W*sec
+
+
+
+8062,15: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8062,15: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+8062,15: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8062,15: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+8062,15: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 8061,95 to 8062,15:
+
+8062,15: [Host #8] utilization at 8061,95 was 0,00%, now is 0,00%
+8062,15: [Host #8] energy is 0,00 W*sec
+
+8062,15: Data center's energy is 0,00 W*sec
+
+
+8062.15185185184: broker-eu-0-0: Cloudlet 42 received
+
+8136,03: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8136,03: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+8136,03: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8136,03: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+8136,03: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 7765,66 to 8136,03:
+
+8136,03: [Host #7] utilization at 7765,66 was 0,00%, now is 0,00%
+8136,03: [Host #7] energy is 0,00 W*sec
+
+8136,03: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #42 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+8136.025925925914: broker-eu-0-0: Cloudlet 42 received
+
+8210,10: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8210,10: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+8210,10: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8210,10: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+8210,10: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 7839,73 to 8210,10:
+
+8210,10: [Host #4] utilization at 7839,73 was 0,00%, now is 0,00%
+8210,10: [Host #4] energy is 0,00 W*sec
+
+8210,10: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #42 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+8210.099999999988: broker-eu-0-0: Cloudlet 42 received
+
+8284,17: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8284,17: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+8284,17: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8284,17: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+8284,17: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 7913,80 to 8284,17:
+
+8284,17: [Host #6] utilization at 7913,80 was 0,00%, now is 0,00%
+8284,17: [Host #6] energy is 0,00 W*sec
+
+8284,17: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #42 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+8284.174074074062: broker-eu-0-0: Cloudlet 42 received
+
+8358,25: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8358,25: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+8358,25: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8358,25: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+8358,25: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 7987,88 to 8358,25:
+
+8358,25: [Host #5] utilization at 7987,88 was 0,00%, now is 0,00%
+8358,25: [Host #5] energy is 0,00 W*sec
+
+8358,25: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #42 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+8358.248148148137: broker-eu-0-0: Cloudlet 42 received
+
+8432,32: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8432,32: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+8432,32: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8432,32: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+8432,32: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 8062,15 to 8432,32:
+
+8432,32: [Host #8] utilization at 8062,15 was 0,00%, now is 0,00%
+8432,32: [Host #8] energy is 0,00 W*sec
+
+8432,32: Data center's energy is 0,00 W*sec
+
+
+
+8432,52: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8432,52: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+8432,52: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8432,52: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+8432,52: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 8432,32 to 8432,52:
+
+8432,52: [Host #8] utilization at 8432,32 was 0,00%, now is 0,00%
+8432,52: [Host #8] energy is 0,00 W*sec
+
+8432,52: Data center's energy is 0,00 W*sec
+
+
+8432.522222222213: broker-eu-0-0: Cloudlet 43 received
+
+8506,40: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8506,40: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+8506,40: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8506,40: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+8506,40: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 8136,03 to 8506,40:
+
+8506,40: [Host #7] utilization at 8136,03 was 0,00%, now is 0,00%
+8506,40: [Host #7] energy is 0,00 W*sec
+
+8506,40: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #43 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+8506.396296296287: broker-eu-0-0: Cloudlet 43 received
+
+8580,47: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8580,47: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+8580,47: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8580,47: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+8580,47: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8210,10 to 8580,47:
+
+8580,47: [Host #4] utilization at 8210,10 was 0,00%, now is 0,00%
+8580,47: [Host #4] energy is 0,00 W*sec
+
+8580,47: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #43 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+8580.470370370362: broker-eu-0-0: Cloudlet 43 received
+
+8654,54: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8654,54: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+8654,54: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8654,54: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+8654,54: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 8284,17 to 8654,54:
+
+8654,54: [Host #6] utilization at 8284,17 was 0,00%, now is 0,00%
+8654,54: [Host #6] energy is 0,00 W*sec
+
+8654,54: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #43 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+8654.544444444437: broker-eu-0-0: Cloudlet 43 received
+
+8728,62: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8728,62: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+8728,62: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8728,62: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+8728,62: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 8358,25 to 8728,62:
+
+8728,62: [Host #5] utilization at 8358,25 was 0,00%, now is 0,00%
+8728,62: [Host #5] energy is 0,00 W*sec
+
+8728,62: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #43 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+8728.618518518511: broker-eu-0-0: Cloudlet 43 received
+
+8802,69: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8802,69: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+8802,69: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8802,69: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+8802,69: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 8432,52 to 8802,69:
+
+8802,69: [Host #8] utilization at 8432,52 was 0,00%, now is 0,00%
+8802,69: [Host #8] energy is 0,00 W*sec
+
+8802,69: Data center's energy is 0,00 W*sec
+
+
+
+8802,89: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8802,89: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+8802,89: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8802,89: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+8802,89: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 8802,69 to 8802,89:
+
+8802,89: [Host #8] utilization at 8802,69 was 0,00%, now is 0,00%
+8802,89: [Host #8] energy is 0,00 W*sec
+
+8802,89: Data center's energy is 0,00 W*sec
+
+
+8802.892592592587: broker-eu-0-0: Cloudlet 44 received
+
+8876,77: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8876,77: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+8876,77: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8876,77: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+8876,77: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 8506,40 to 8876,77:
+
+8876,77: [Host #7] utilization at 8506,40 was 0,00%, now is 0,00%
+8876,77: [Host #7] energy is 0,00 W*sec
+
+8876,77: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #44 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+8876.766666666661: broker-eu-0-0: Cloudlet 44 received
+
+8950,84: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8950,84: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+8950,84: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+8950,84: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+8950,84: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8580,47 to 8950,84:
+
+8950,84: [Host #4] utilization at 8580,47 was 0,00%, now is 0,00%
+8950,84: [Host #4] energy is 0,00 W*sec
+
+8950,84: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #44 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+8950.840740740736: broker-eu-0-0: Cloudlet 44 received
+
+9024,91: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9024,91: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+9024,91: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9024,91: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+9024,91: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 8654,54 to 9024,91:
+
+9024,91: [Host #6] utilization at 8654,54 was 0,00%, now is 0,00%
+9024,91: [Host #6] energy is 0,00 W*sec
+
+9024,91: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #44 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+9024.91481481481: broker-eu-0-0: Cloudlet 44 received
+
+9098,99: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9098,99: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+9098,99: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9098,99: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+9098,99: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 8728,62 to 9098,99:
+
+9098,99: [Host #5] utilization at 8728,62 was 0,00%, now is 0,00%
+9098,99: [Host #5] energy is 0,00 W*sec
+
+9098,99: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #44 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+9098.988888888885: broker-eu-0-0: Cloudlet 44 received
+
+9173,06: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9173,06: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+9173,06: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9173,06: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+9173,06: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 8802,89 to 9173,06:
+
+9173,06: [Host #8] utilization at 8802,89 was 0,00%, now is 0,00%
+9173,06: [Host #8] energy is 0,00 W*sec
+
+9173,06: Data center's energy is 0,00 W*sec
+
+
+
+9173,26: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9173,26: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+9173,26: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9173,26: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+9173,26: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 9173,06 to 9173,26:
+
+9173,26: [Host #8] utilization at 9173,06 was 0,00%, now is 0,00%
+9173,26: [Host #8] energy is 0,00 W*sec
+
+9173,26: Data center's energy is 0,00 W*sec
+
+
+9173.262962962961: broker-eu-0-0: Cloudlet 45 received
+
+9247,14: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9247,14: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+9247,14: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9247,14: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+9247,14: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 8876,77 to 9247,14:
+
+9247,14: [Host #7] utilization at 8876,77 was 0,00%, now is 0,00%
+9247,14: [Host #7] energy is 0,00 W*sec
+
+9247,14: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #45 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+9247.137037037035: broker-eu-0-0: Cloudlet 45 received
+
+9321,21: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9321,21: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+9321,21: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9321,21: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+9321,21: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 8950,84 to 9321,21:
+
+9321,21: [Host #4] utilization at 8950,84 was 0,00%, now is 0,00%
+9321,21: [Host #4] energy is 0,00 W*sec
+
+9321,21: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #45 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+9321.21111111111: broker-eu-0-0: Cloudlet 45 received
+
+9395,29: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9395,29: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+9395,29: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9395,29: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+9395,29: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 9024,91 to 9395,29:
+
+9395,29: [Host #6] utilization at 9024,91 was 0,00%, now is 0,00%
+9395,29: [Host #6] energy is 0,00 W*sec
+
+9395,29: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #45 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+9395.285185185185: broker-eu-0-0: Cloudlet 45 received
+
+9469,36: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9469,36: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+9469,36: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9469,36: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+9469,36: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 9098,99 to 9469,36:
+
+9469,36: [Host #5] utilization at 9098,99 was 0,00%, now is 0,00%
+9469,36: [Host #5] energy is 0,00 W*sec
+
+9469,36: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #45 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+9469.35925925926: broker-eu-0-0: Cloudlet 45 received
+
+9543,43: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9543,43: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+9543,43: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9543,43: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+9543,43: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 9173,26 to 9543,43:
+
+9543,43: [Host #8] utilization at 9173,26 was 0,00%, now is 0,00%
+9543,43: [Host #8] energy is 0,00 W*sec
+
+9543,43: Data center's energy is 0,00 W*sec
+
+
+
+9543,63: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9543,63: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+9543,63: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9543,63: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+9543,63: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 9543,43 to 9543,63:
+
+9543,63: [Host #8] utilization at 9543,43 was 0,00%, now is 0,00%
+9543,63: [Host #8] energy is 0,00 W*sec
+
+9543,63: Data center's energy is 0,00 W*sec
+
+
+9543.633333333335: broker-eu-0-0: Cloudlet 51 received
+
+9617,51: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9617,51: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+9617,51: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9617,51: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+9617,51: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 9247,14 to 9617,51:
+
+9617,51: [Host #7] utilization at 9247,14 was 0,00%, now is 0,00%
+9617,51: [Host #7] energy is 0,00 W*sec
+
+9617,51: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #51 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+9617.50740740741: broker-eu-0-0: Cloudlet 51 received
+
+9691,58: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9691,58: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+9691,58: [Host #4] Total allocated MIPS for VM #9 (Host #4) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9691,58: [Host #4] MIPS for VM #9 by PEs (1 * 1000.0).
+9691,58: [Host #4] utilization is 0,00%
+
+Energy consumption for the last time frame from 9321,21 to 9691,58:
+
+9691,58: [Host #4] utilization at 9321,21 was 0,00%, now is 0,00%
+9691,58: [Host #4] energy is 0,00 W*sec
+
+9691,58: Data center's energy is 0,00 W*sec
+
+
+eu-0: Warning - Cloudlet #51 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+9691.581481481484: broker-eu-0-0: Cloudlet 51 received
+
+9765,66: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9765,66: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+9765,66: [Host #6] Total allocated MIPS for VM #20 (Host #6) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9765,66: [Host #6] MIPS for VM #20 by PEs (1 * 1000.0).
+9765,66: [Host #6] utilization is 0,00%
+
+Energy consumption for the last time frame from 9395,29 to 9765,66:
+
+9765,66: [Host #6] utilization at 9395,29 was 0,00%, now is 0,00%
+9765,66: [Host #6] energy is 0,00 W*sec
+
+9765,66: Data center's energy is 0,00 W*sec
+
+
+eu-2: Warning - Cloudlet #51 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+9765.655555555559: broker-eu-0-0: Cloudlet 51 received
+
+9839,73: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9839,73: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+9839,73: [Host #5] Total allocated MIPS for VM #19 (Host #5) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9839,73: [Host #5] MIPS for VM #19 by PEs (1 * 1000.0).
+9839,73: [Host #5] utilization is 0,00%
+
+Energy consumption for the last time frame from 9469,36 to 9839,73:
+
+9839,73: [Host #5] utilization at 9469,36 was 0,00%, now is 0,00%
+9839,73: [Host #5] energy is 0,00 W*sec
+
+9839,73: Data center's energy is 0,00 W*sec
+
+
+eu-1: Warning - Cloudlet #51 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+9839.729629629634: broker-eu-0-0: Cloudlet 51 received
+
+9913,80: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9913,80: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+9913,80: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9913,80: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+9913,80: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 9543,63 to 9913,80:
+
+9913,80: [Host #8] utilization at 9543,63 was 0,00%, now is 0,00%
+9913,80: [Host #8] energy is 0,00 W*sec
+
+9913,80: Data center's energy is 0,00 W*sec
+
+
+
+9914,00: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9914,00: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+9914,00: [Host #8] Total allocated MIPS for VM #22 (Host #8) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9914,00: [Host #8] MIPS for VM #22 by PEs (1 * 1000.0).
+9914,00: [Host #8] utilization is 0,00%
+
+Energy consumption for the last time frame from 9913,80 to 9914,00:
+
+9914,00: [Host #8] utilization at 9913,80 was 0,00%, now is 0,00%
+9914,00: [Host #8] energy is 0,00 W*sec
+
+9914,00: Data center's energy is 0,00 W*sec
+
+
+9914.00370370371: broker-eu-0-0: Cloudlet 52 received
+
+9987,88: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9987,88: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+9987,88: [Host #7] Total allocated MIPS for VM #21 (Host #7) is 0,00, was requested 0,00 out of total 1000,00 (0,00%)
+9987,88: [Host #7] MIPS for VM #21 by PEs (1 * 1000.0).
+9987,88: [Host #7] utilization is 0,00%
+
+Energy consumption for the last time frame from 9617,51 to 9987,88:
+
+9987,88: [Host #7] utilization at 9617,51 was 0,00%, now is 0,00%
+9987,88: [Host #7] energy is 0,00 W*sec
+
+9987,88: Data center's energy is 0,00 W*sec
+
+
+eu-3: Warning - Cloudlet #52 owned by broker-eu-0-0 is already completed/finished.
+Therefore, it is not being executed again
+
+9987.877777777783: broker-eu-0-0: Cloudlet 52 received
+Simulation completed.

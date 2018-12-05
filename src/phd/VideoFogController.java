@@ -67,6 +67,7 @@ public class VideoFogController extends SimEntity {
     private int periodicDelay;
     private double utilizationCheckPeriod = 1000;
 
+    private List<VideoFogBroker> brokerList;
     private List<FogDevice> fogDevices;
     private List<Sensor> sensors;
     private List<Actuator> actuators;
@@ -81,6 +82,8 @@ public class VideoFogController extends SimEntity {
     static Map<Integer, List<Integer>> clusters = new HashMap<Integer, List<Integer>>();
     private VideoFogBroker broker;
     private int videoId = 0;
+    
+    private List<MapInstance> users;
 
     public VideoFogController(String name, List<FogDevice> fogDevices, List<Sensor> sensors, List<Actuator> actuators) {
         super(name);
@@ -119,6 +122,27 @@ public class VideoFogController extends SimEntity {
 //        formClusters();
     }
 
+    public VideoFogController(String name, List<FogDevice> fogDevices, List<VideoFogBroker> brokerList, List<Sensor> sensors, List<Actuator> actuators, ParseCmdLine properties) {
+        super(name);
+        this.applications = new HashMap<String, Application>();
+        setAppLaunchDelays(new HashMap<String, Integer>());
+        setAppModulePlacementPolicy(new HashMap<String, ModulePlacement>());
+
+        for (FogDevice fogDevice : fogDevices) {
+            fogDevice.setControllerId(getId());
+        }
+
+        setFogDevices(fogDevices);
+        setActuators(actuators);
+        setSensors(sensors);
+        setBrokerList(brokerList);
+        setProperties(properties);
+        connectWithLatencies();
+
+        gatewaySelection();
+//        formClusters();
+    }
+
     private FogDevice getFogDeviceById(int id) {
         for (FogDevice fogDevice : getFogDevices()) {
             if (id == fogDevice.getId()) {
@@ -142,10 +166,11 @@ public class VideoFogController extends SimEntity {
 
     @Override
     public void startEntity() {
-        schedule(getId(), 0, CREATE_JOB);
+//        schedule(getId(), 0, CREATE_JOB);
 
-        send(getId(), utilizationCheckPeriod, CHECK_UTILIZATION);
-        send(getId(), periodicDelay, PERIODIC_UPDATE);
+//        send(getId(), utilizationCheckPeriod, CHECK_UTILIZATION);
+//        send(getId(), periodicDelay, PERIODIC_UPDATE);
+        StartSim();
     }
 
     private void StartSim() {
@@ -255,7 +280,7 @@ public class VideoFogController extends SimEntity {
      */
     private static void printCloudletList(Map<String, Application> list) {
         String indent = "    ";
-        System.out.println("========== OUTPUT (" + list.size() + ") ==========");
+        System.out.println("========== OUTPUT (" + list.size() + ") [VideoFogController][printCloudletList] ==========");
         System.out.println("App ID" + indent + "DEADLINE");
 
         DecimalFormat dft = new DecimalFormat("###.##");
@@ -264,7 +289,7 @@ public class VideoFogController extends SimEntity {
         for (Map.Entry<String, Application> entry : list.entrySet()) {
             String key = entry.getKey();
             Application app = (Application) entry.getValue();
-            
+
             System.out.println(app.getAppId() + indent + app.getDeadlineInfo() + indent);
         }
     }
@@ -344,6 +369,7 @@ public class VideoFogController extends SimEntity {
     }
 
     public void submitApplication(Application application, int delay, ModulePlacement modulePlacement) {
+
         FogUtils.appIdToGeoCoverageMap.put(application.getAppId(), application.getGeoCoverage());
         getApplications().put(application.getAppId(), application);
         getAppLaunchDelays().put(application.getAppId(), delay);
@@ -352,10 +378,11 @@ public class VideoFogController extends SimEntity {
         for (Sensor sensor : sensors) {
             sensor.setApp(getApplications().get(sensor.getAppId()));
         }
+
         for (Actuator ac : actuators) {
             ac.setApp(getApplications().get(ac.getAppId()));
         }
-
+        
         for (AppEdge edge : application.getEdges()) {
             if (edge.getEdgeType() == AppEdge.ACTUATOR) {
                 String moduleName = edge.getSource();
@@ -379,6 +406,7 @@ public class VideoFogController extends SimEntity {
 
     private void processAppSubmit(Application application) {
         System.out.println(CloudSim.clock() + " Submitted application " + application.getAppId());
+
         FogUtils.appIdToGeoCoverageMap.put(application.getAppId(), application.getGeoCoverage());
         getApplications().put(application.getAppId(), application);
 
@@ -532,67 +560,105 @@ public class VideoFogController extends SimEntity {
         this.broker = broker;
     }
 
+    public List<VideoFogBroker> getBrokerList() {
+        return brokerList;
+    }
+
+    public void setBrokerList(List<VideoFogBroker> brokerList) {
+        this.brokerList = brokerList;
+    }
+
+    public List<MapInstance> getUsers() {
+        return users;
+    }
+
+    public void setUsers(List<MapInstance> users) {
+        this.users = users;
+    }
+
     private void processNewJobs() {
-        System.out.println(CloudSim.clock() + " : Creating a new job....");
+        System.out.print(CloudSim.clock() + " : Creating a new job.... ");
 
-        int brokerId = getBroker().getId();
+        System.out.println(" Broker List = " + getBrokerList().size());
+        getBrokerList().forEach((broker) -> System.out.println("Broker name: " + broker.getName()));
 
+        // int brokerId = getBroker().getId();
         // Create a thread pool that can create video streams
         Random random = new Random();
 
         //List<Cloudlet> newList = new ArrayList<Cloudlet>();
         ExecutorService executorService = Executors.newFixedThreadPool(2);
 
-        CompletionService<String> taskCompletionService = new ExecutorCompletionService<String>(
-                executorService);
-        try {
-
-            ArrayList<Callable<String>> callables = new ArrayList<Callable<String>>();
-            for (int i = 0; i < 1; i++) {
-                int cloudlets = (int) getRandomNumber(10, 50, random);
-                callables.add(new VideoStreams(videoId + "", properties.getInputdataFolderURL(), brokerId, videoId, properties));
-                videoId++;
-            }
-
-            for (Callable<String> callable : callables) {
-                taskCompletionService.submit(callable);
-            }
-
-            for (int i = 0; i < callables.size(); i++) {
-                Future<String> result = taskCompletionService.take();
-                System.out.println(result.get() + " End.");
-            }
-        } catch (InterruptedException e) {
-            e.printStackTrace(); // no real error handling. Don't do this in production!
-        } catch (ExecutionException e) {
-            e.printStackTrace(); // no real error handling. Don't do this in production!
-        }
+//        CompletionService<String> taskCompletionService = new ExecutorCompletionService<String>(
+//                executorService);
+//        try {
+//
+//            ArrayList<Callable<String>> callables = new ArrayList<Callable<String>>();
+//            for (VideoFogBroker videoFogBroker : getBrokerList()) {
+//                int cloudlets = (int) getRandomNumber(10, 50, random);
+//                callables.add(new VideoStreams(videoId + "", properties.getInputdataFolderURL(), videoFogBroker.getId(), videoId, properties));
+//                videoId++;
+//            }
+//
+//            for (Callable<String> callable : callables) {
+//                taskCompletionService.submit(callable);
+//            }
+//
+//            for (int i = 0; i < callables.size(); i++) {
+//                Future<String> result = taskCompletionService.take();
+//                System.out.println(result.get() + " End.");
+//            }
+//        } catch (InterruptedException e) {
+//            e.printStackTrace(); // no real error handling. Don't do this in production!
+//        } catch (ExecutionException e) {
+//            e.printStackTrace(); // no real error handling. Don't do this in production!
+//        }
         executorService.shutdown();
 
         VideoStreams vt = new VideoStreams();
         cloudletBatchQueue = vt.getBatchQueue();
         cloudletNewArrivalQueue = vt.getNewArrivalQueue();
 
-//        broker.submitCloudletList(cloudletBatchQueue, cloudletNewArrivalQueue);
-        String appId = "Video Stream";
+        for (VideoFogBroker videoFogBroker : getBrokerList()) {
+            videoFogBroker.submitCloudletList(cloudletBatchQueue, cloudletNewArrivalQueue);
 
-        Application application = ApplicationModel.createVideoApplication(appId, broker.getId());
-        application.setUserId(broker.getId());
-        //Next step: implement application modules
+            String appId = "Video Stream";
 
-        ModuleMapping moduleMapping = ModuleMapping.createModuleMapping();
+            Application application = ApplicationModel.createVideoApplication(appId, videoFogBroker.getId());
 
-        for (FogDevice fogDevice : getFogDevices()) {
-            if (fogDevice.getName().startsWith("e")) {
-                moduleMapping.addModuleToDevice("clientModule", fogDevice.getName());
+            //application.setUserId(broker.getId());
+            //Next step: implement application modules
+            ModuleMapping moduleMapping = ModuleMapping.createModuleMapping();
+
+            for (FogDevice fogDevice : getFogDevices()) {
+                if (fogDevice.getName().startsWith("e")) {
+                    moduleMapping.addModuleToDevice("clientModule", fogDevice.getName());
+                }
+            }
+
+            moduleMapping.addModuleToDevice("storageModule", "cloud");
+
+            submitApplication(application, new ModulePlacementEdgewards(getFogDevices(), getSensors(), getActuators(), application, moduleMapping));
+            
+            break;
+        }
+        
+        for (String apId : applications.keySet()) {
+            if (getAppLaunchDelays().get(apId) == 0) {
+                processAppSubmit(applications.get(apId));
+            } else {
+                send(getId(), getAppLaunchDelays().get(apId), FogEvents.APP_SUBMIT, applications.get(apId));
             }
         }
 
-        moduleMapping.addModuleToDevice("storageModule", "cloud");
+        send(getId(), Config.RESOURCE_MANAGE_INTERVAL, FogEvents.CONTROLLER_RESOURCE_MANAGE);
+        send(getId(), Config.MAX_SIMULATION_TIME, FogEvents.STOP_SIMULATION);
 
-        submitApplication(application, new ModulePlacementEdgewards(getFogDevices(), getSensors(), getActuators(), application, moduleMapping));
+        for (FogDevice dev : getFogDevices()) {
+            sendNow(dev.getId(), FogEvents.RESOURCE_MGMT);
+        }
 
-        StartSim();
+        scheduleMobility();
     }
 
     public void processProvisioning() {
