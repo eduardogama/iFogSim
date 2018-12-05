@@ -3,4 +3,4 @@ bin/
 .settings/
 .project
 /nbproject/private/
-/build/
+/build/resources/online_video_dataset/youtube_videos.tsv
